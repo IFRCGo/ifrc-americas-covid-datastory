@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="501px" height="208px" viewBox="0 0 501 208" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg_nav_mobile</title>
+    <defs>
+        <rect id="path-1" x="-613" y="0" width="2467" height="45"></rect>
+        <filter x="-0.3%" y="-11.1%" width="100.6%" height="131.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.854968969   0 0 0 0 0.854968969   0 0 0 0 0.854968969  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="svg_nav_mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="501" height="208"></rect>
+        <g id="Rectangle">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <g id="Group-2" transform="translate(15.000000, 11.000000)" fill-rule="nonzero">
+            <path d="M8.22670761,15.6436056 L0,15.6436056 L0,8.53421614 L8.22670761,8.53421614 L8.22670761,0.236275094 L15.2767907,0.236275094 L15.2767907,8.52934502 L15.2743746,8.53421614 L23.5034983,8.53421614 L23.5034983,15.64117 L15.2743746,15.64117 L15.2767907,15.6387345 L15.2767907,23.9318044 L8.22670761,23.9318044 L8.22670761,15.6387345 L8.22670761,15.6436056 Z M34.409624,11.9586086 C34.409624,6.43720198 38.8503549,1.95821355 44.3299945,1.95821355 C45.5501082,1.95821355 46.7194846,2.17984919 47.7970504,2.58658713 C45.6976209,0.907825287 43.0956875,-0.00397294648 40.4159662,1.3013231e-05 C33.8418483,1.3013231e-05 28.5120048,5.37286378 28.5120048,12.000013 C28.5120048,18.6271623 33.8418483,24 40.4159662,24 C43.2959179,24 45.939095,22.967324 48,21.2502567 C46.8644486,21.7057058 45.6274224,21.9565681 44.3324105,21.9565681 C38.8527709,21.9590036 34.409624,17.4800152 34.409624,11.9586086" id="Shape" fill="#F5333F"></path>
+            <path d="M124.514035,24 C126.50575,24 128.311797,23.6444805 129.929764,22.9383117 C131.550142,22.2297078 132.90528,21.2045455 134,19.8555195 L130.585631,16.6728896 C129.030357,18.5089286 127.106158,19.424513 124.808211,19.424513 C123.385557,19.424513 122.114814,19.1103896 121.000804,18.4797078 C119.884382,17.849026 119.013911,16.9724026 118.391802,15.8449675 C117.767281,14.7175325 117.456226,13.4366883 117.456226,12 C117.456226,10.5633117 117.769692,9.28003247 118.391802,8.1525974 C119.013911,7.02516234 119.884382,6.1461039 121.000804,5.51785714 C122.117225,4.88717532 123.385557,4.57305195 124.808211,4.57305195 C127.106158,4.57305195 129.032769,5.4788961 130.585631,7.29301948 L134,4.11038961 C132.90528,2.78327922 131.554965,1.76785714 129.944231,1.06168831 C128.335909,0.353084416 126.537097,0 124.545381,0 C122.18233,0 120.053172,0.513798701 118.160319,1.5413961 C116.265055,2.56899351 114.777297,3.99594156 113.694633,5.81737013 C112.61197,7.64123377 112.069432,9.70373377 112.069432,12 C112.069432,14.2987013 112.61197,16.3587662 113.694633,18.1826299 C114.777297,20.0064935 116.265055,21.4310065 118.160319,22.4586039 C120.053172,23.4862013 122.170273,24 124.514035,24 M103.273093,8.81737013 C103.273093,10.1006494 102.858353,11.0941558 102.026462,11.8027597 C101.194572,12.5113636 99.9792877,12.8644481 98.3830221,12.8644481 L94.0499567,12.8644481 L94.0499567,4.77516234 L98.3830221,4.77516234 C99.981699,4.77516234 101.194572,5.12337662 102.026462,5.81980519 C102.858353,6.51136364 103.273093,7.51217532 103.273093,8.81737013 M109.084271,23.6030844 L103.931371,16.1444805 C105.440831,15.4821429 106.607889,14.5251623 107.427724,13.275974 C108.247558,12.0267857 108.657475,10.5413961 108.657475,8.81737013 C108.657475,7.09334416 108.25238,5.60308442 107.444602,4.34172078 C106.634413,3.08279221 105.479411,2.10876623 103.982008,1.42451299 C102.482194,0.74025974 100.714727,0.396915584 98.6796092,0.396915584 L88.7330901,0.396915584 L88.7330901,23.6030844 L94.052368,23.6030844 L94.052368,17.137987 L98.9448498,17.137987 L103.376778,23.6030844 L109.084271,23.6030844 L109.084271,23.6030844 Z M84.1347842,4.70454545 L84.1347842,0.394480519 L66.7687647,0.394480519 L66.7687647,23.6006494 L72.0880425,23.6006494 L72.0880425,15.1461039 L82.724187,15.1461039 L82.724187,10.836039 L72.0880425,10.836039 L72.0880425,4.70211039 L84.1347842,4.70211039 L84.1347842,4.70454545 Z M56,23.6030844 L61.3192779,23.6030844 L61.3192779,0.396915584 L56,0.396915584 L56,23.6030844 Z" id="Shape" fill="#333132"></path>
+        </g>
+        <g id="links_box" transform="translate(0.000000, 45.000000)">
+            <rect id="Rectangle" fill="#F9F9F9" x="0" y="0" width="501" height="168"></rect>
+            <text id="link_text_background" font-family="Poppins-Regular, Poppins" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="196.68" y="26">BACKGROUND </tspan>
+            </text>
+            <text id="link_text_keyfindings" font-family="Poppins-Regular, Poppins" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="197.504" y="58">KEY FINDINGS</tspan>
+            </text>
+            <text id="link_text_recommendations" font-family="Poppins-Regular, Poppins" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="171.112" y="89">RECOMMENDATIONS</tspan>
+            </text>
+            <rect id="link_background" fill-opacity="0.253248948" fill="#FF0000" x="192" y="6" width="118" height="28"></rect>
+            <rect id="link_keyfindings" fill-opacity="0.253248948" fill="#FF0000" x="197" y="38" width="107" height="28"></rect>
+            <rect id="link_recommendations" fill-opacity="0.253248948" fill="#FF0000" x="172" y="69" width="157" height="28"></rect>
+            <text id="link_text_references" font-family="Poppins-Regular, Poppins" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="106.88" y="151">ACKNOWLEDGEMENTS &amp; REFERENCES</tspan>
+            </text>
+            <rect id="link_references" fill-opacity="0.253248948" fill="#FF0000" x="103" y="131" width="294" height="28"></rect>
+            <text id="link_text_methodology" font-family="Poppins-Regular, Poppins" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="187.272" y="120">METHODOLOGY</tspan>
+            </text>
+            <rect id="link_methodology" fill-opacity="0.253248948" fill="#FF0000" x="185" y="100" width="126" height="28"></rect>
+        </g>
+        <rect id="link_home" fill-opacity="0.253248948" fill="#FF0000" x="10" y="9" width="146" height="28"></rect>
+        <g id="links_button" transform="translate(447.000000, 3.000000)">
+            <rect id="Rectangle" fill="#D8D8D8" opacity="0.477739607" x="0" y="0" width="54" height="39"></rect>
+            <line x1="17" y1="9.5" x2="42.509583" y2="9.5" id="Path-9" stroke="#2A2A2A" stroke-width="6" stroke-linecap="round"></line>
+            <line x1="12" y1="19.5" x2="42.509583" y2="19.5" id="Path-9" stroke="#2A2A2A" stroke-width="6" stroke-linecap="round"></line>
+            <line x1="19" y1="29.5" x2="42.509583" y2="29.5" id="Path-9" stroke="#2A2A2A" stroke-width="6" stroke-linecap="round"></line>
+        </g>
+    </g>
+</svg>

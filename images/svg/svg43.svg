@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="658px" viewBox="0 0 1000 658" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg43</title>
+    <g id="svg43" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1000" height="658"></rect>
+        <text id="74%-of-participants" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+            <tspan x="100" y="421">74% of participants reported a change in their economic situation since the </tspan>
+            <tspan x="100" y="453">pandemic started. </tspan>
+            <tspan x="100" y="485"></tspan>
+            <tspan x="100" y="517"></tspan>
+            <tspan x="100" y="549">Colombia is the country where respondents reported the most change (86%), </tspan>
+            <tspan x="100" y="581">compared to 57% in Argentina. </tspan>
+        </text>
+        <g id="question" transform="translate(100.000000, 43.096498)">
+            <text id="question-title" font-family="Poppins-Bold, Poppins" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="51" y="27.9035021">DID YOUR ECONOMIC SITUATION CHANGE WITH COVID-19?</tspan>
+            </text>
+            <g id="question-icon">
+                <path d="M1.38600004,2.14179673 L22,2.14179673 C30.2842712,2.14179673 37,8.85752548 37,17.1417967 L37,24.6575018 C37,33.0776353 30.1741332,39.9035021 21.7539997,39.9035021 L1.38600004,39.9035021 C0.620533353,39.9035021 3.15787237e-16,39.2829687 0,38.5175021 L0,3.52779676 C-9.37426324e-17,2.76233008 0.620533353,2.14179673 1.38600004,2.14179673 Z" id="Rectangle" fill="#3B3B3B"></path>
+                <text id="Q" font-family="Poppins-Bold, Poppins" font-size="27.72" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="6.16666667" y="29">Q</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-4" transform="translate(99.000000, 142.000000)">
+            <g id="bars" transform="translate(0.000000, 73.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#F5333F" x="285.322359" y="0" width="514.677641" height="100"></rect>
+                <rect id="Rectangle" fill="#011E41" x="87.7914952" y="0" width="197.530864" height="100"></rect>
+                <rect id="Rectangle" fill="#99A5B3" x="32.9218107" y="0" width="54.8696845" height="100"></rect>
+                <rect id="Rectangle" fill="#CCD6D9" x="0" y="0" width="32.9218107" height="100"></rect>
+                <text id="3%" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="4.26220107" y="57">3%</tspan>
+                </text>
+                <text id="18%" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="174.572975" y="57">18%</tspan>
+                </text>
+                <text id="5%" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="47.572975" y="57">5%</tspan>
+                </text>
+                <text id="74%" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="529.033748" y="57">74%</tspan>
+                </text>
+            </g>
+            <g id="Group-3" transform="translate(154.000000, 0.000000)">
+                <rect id="Rectangle" fill="#CCD6D9" x="0" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="No-answer" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="29.9331989" y="20">No answer</tspan>
+                </text>
+                <rect id="Rectangle" fill="#99A5B3" x="160.950466" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Unsure" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="191.920343" y="20">Unsure</tspan>
+                </text>
+                <rect id="Rectangle" fill="#011E41" x="291.900933" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="No" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="321.653138" y="20">No</tspan>
+                </text>
+                <rect id="Rectangle" fill="#F5333F" x="408.851399" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Yes" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#000000">
+                    <tspan x="439.735064" y="20">Yes</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

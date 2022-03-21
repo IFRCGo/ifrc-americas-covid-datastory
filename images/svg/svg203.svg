@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="253px" viewBox="0 0 1000 253" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg203</title>
+    <g id="svg203" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box" transform="translate(100.000000, 16.000000)">
+            <rect id="Rectangle" stroke="#011E41" stroke-width="3" fill="#F6F9FA" x="1.5" y="34.5" width="797" height="187"></rect>
+            <circle id="Oval" stroke="#011E41" stroke-width="3" fill="#F6F9FA" cx="396" cy="35" r="33.5"></circle>
+            <rect id="Rectangle" fill="#F6F9FA" x="342" y="37" width="120" height="35"></rect>
+            <text id="3" font-family="Poppins-Bold, Poppins" font-size="39" font-weight="bold" fill="#668490">
+                <tspan x="384.7025" y="45">3</tspan>
+            </text>
+            <text id="Youth-and-elderly-pe" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+                <tspan x="22" y="67">Youth and elderly people need tailored engagement strategies. Give </tspan>
+                <tspan x="22" y="99">transparent, quality information on COVID-19 through internet and social </tspan>
+                <tspan x="22" y="131">media for 18–29-year olds, favour direct contact with people above 70 </tspan>
+                <tspan x="22" y="163">years, particularly through religious and community leaders, which are </tspan>
+                <tspan x="22" y="195">more trusted by older people.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

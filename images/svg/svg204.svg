@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="191px" viewBox="0 0 1000 191" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg204</title>
+    <g id="svg204" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box" transform="translate(100.000000, 16.000000)">
+            <rect id="Rectangle" stroke="#011E41" stroke-width="3" fill="#F6F9FA" x="1.5" y="34.5" width="797" height="128"></rect>
+            <circle id="Oval" stroke="#011E41" stroke-width="3" fill="#F6F9FA" cx="396" cy="35" r="33.5"></circle>
+            <rect id="Rectangle" fill="#F6F9FA" x="342" y="37" width="120" height="35"></rect>
+            <text id="4" font-family="Poppins-Bold, Poppins" font-size="39" font-weight="bold" fill="#668490">
+                <tspan x="383.2985" y="46">4</tspan>
+            </text>
+            <text id="Provide-psychosocial" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+                <tspan x="22" y="68">Provide psychosocial support services and grief support when necessary. </tspan>
+                <tspan x="22" y="100">Such services are also essential in cases where people have lost their </tspan>
+                <tspan x="22" y="132">livelihoods and have not yet managed to stabilise their economic situation. </tspan>
+            </text>
+        </g>
+    </g>
+</svg>

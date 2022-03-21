@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="1117px" viewBox="0 0 1000 1117" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg10</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#B6000B" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#EB313C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="svg10" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="-542" y="277" width="2035" height="603"></rect>
+        <g id="Group-7" transform="translate(-540.000000, 879.000000)">
+            <rect id="keyfindings_anchor" fill="#EB313C" x="0" y="0" width="2035" height="238"></rect>
+            <text id="KEY-FINDINGS" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" fill="#FFFFFF">
+                <tspan x="959.608" y="198.268293">KEY FINDINGS</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

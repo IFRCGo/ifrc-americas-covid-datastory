@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="828px" viewBox="0 0 1000 828" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg21</title>
+    <g id="svg21" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="The-main-barriers-fo" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+            <tspan x="100" y="151">The main barriers for vaccination include distance (28%), long waiting lines </tspan>
+            <tspan x="100" y="183">(27%), inconvenient opening times (18%) and inadequate services (people </tspan>
+            <tspan x="100" y="215">being turned away without vaccination) (16%). In Guatemala, for instance, the </tspan>
+            <tspan x="100" y="247">Red Cross underlines the historical lack of access to health services for </tspan>
+            <tspan x="100" y="279">indigenous populations and migrants, which could partly explain this response </tspan>
+            <tspan x="100" y="311">gap. Moreover, the study suggests that half of the migrants, refugees, and </tspan>
+            <tspan x="100" y="343">asylum seekers interviewed in this study, especially the youngest ones, said that </tspan>
+            <tspan x="100" y="375">vaccination centres are too far. </tspan>
+        </text>
+        <text id="Cost" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="258.625588" y="601">Cost</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="302" y="587.076923" width="135.867079" height="24"></rect>
+        <text id="7%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="414.479526" y="603">7%</tspan>
+        </text>
+        <text id="Do-Not-Fit-Priority-Criteria" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="108.745589" y="780">Do Not Fit Priority Criteria</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="302" y="766" width="4.62132921" height="24"></rect>
+        <text id="0.2%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="312.033604" y="782">0.2%</tspan>
+        </text>
+        <text id="Dont-Know-Where-To-Go" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="113.905589" y="750">Dont Know Where To Go</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="302" y="736.307692" width="15.7125193" height="24"></rect>
+        <text id="0.8%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="323.285751" y="752">0.8%</tspan>
+        </text>
+        <text id="Ineffective" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="215.365588" y="632">Ineffective</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="302" y="616.923077" width="110.911901" height="24"></rect>
+        <text id="5%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="391.240965" y="634">5%</tspan>
+        </text>
+        <text id="Lack-Information" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="168.280589" y="720">Lack Information</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="302" y="706.461538" width="41.5919629" height="24"></rect>
+        <text id="2%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="321.220513" y="722">2%</tspan>
+        </text>
+        <text id="Long-waiting-time" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="160.345588" y="482">Long waiting time</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="302" y="467.692308" width="550.862442" height="24"></rect>
+        <text id="27%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="822.839829" y="484">27%</tspan>
+        </text>
+        <text id="Opening-times" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="183.100589" y="513">Opening times</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="302" y="497.538462" width="379.873261" height="24"></rect>
+        <text id="18%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="653.778473" y="514">18%</tspan>
+        </text>
+        <text id="Other" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="251.350588" y="571">Other</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="302" y="557.230769" width="257.87017" height="24"></rect>
+        <text id="13%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="532.259476" y="573">13%</tspan>
+        </text>
+        <text id="Personal-safety-at-site" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="128.650588" y="662">Personal safety at site</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="302" y="646.769231" width="110.911901" height="24"></rect>
+        <text id="5%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="390.306204" y="664">5%</tspan>
+        </text>
+        <text id="Physical-Limitation" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="154.645588" y="691">Physical Limitation</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="302" y="676.615385" width="97.0479134" height="24"></rect>
+        <text id="4.7%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="367.219542" y="693">4.7%</tspan>
+        </text>
+        <text id="Site-is-too-far" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="196.975588" y="453">Site is too far</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="302" y="437.846154" width="583.211747" height="24"></rect>
+        <text id="28%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="854.556482" y="454">28%</tspan>
+        </text>
+        <text id="Turned-away-w/o-vaccine" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="99.3105879" y="542">Turned away w/o vaccine</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="302" y="527.384615" width="338.281298" height="24"></rect>
+        <text id="16%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="612.714205" y="544">16%</tspan>
+        </text>
+        <g id="question" transform="translate(100.000000, 50.000000)">
+            <text id="question-title" font-family="Poppins-Bold, Poppins" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="50" y="27.8030303">WHAT ARE THE MAIN BARRIERS TO VACCINATION?</tspan>
+            </text>
+            <g id="question-icon">
+                <path d="M1.38600004,2.22727273 L21,2.22727273 C29.2842712,2.22727273 36,8.94300148 36,17.2272727 L36,24.55703 C36,32.9771635 29.1741332,39.8030303 20.7539997,39.8030303 L1.38600004,39.8030303 C0.620533353,39.8030303 3.15787237e-16,39.1824969 0,38.4170303 L0,3.61327276 C-9.37426324e-17,2.84780608 0.620533353,2.22727273 1.38600004,2.22727273 Z" id="Rectangle" fill="#3B3B3B"></path>
+                <text id="Q" font-family="Poppins-Bold, Poppins" font-size="27.72" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="6" y="29">Q</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,266 @@
+html {
+    background-color: white;
+}
+
+body {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif !important;
+
+}
+
+#loading {
+    background-color: white;
+    z-index: 151;
+    position: fixed;
+    width: 100%;
+    height:100%;
+    display: flex;
+    align-items: center;
+    top: 0;
+}
+
+#loading img {
+    width: 80px;
+    display: flex;
+    margin: 0 auto;
+}
+
+svg {
+    overflow: visible;
+    font-family: 'Poppins', sans-serif !important;
+    width: 800px;
+    /* height: auto; */
+}
+
+object {
+    width: 800px;
+}
+
+#references_body {
+    width: 800px;
+    margin: 0 auto;
+    padding-top: 1em;
+}
+
+#references_content {
+    padding: 0px 75px;
+    text-align: left;
+    font-size: 78%;
+    font-weight: 300;
+    color: #1e1e1e;
+}
+
+#references_content hr {
+    opacity: 0.2;
+    margin: 30px 0px 25px 0px;
+}
+
+#references_content h2 {
+    margin-bottom: 21px;
+}
+
+#references_content li {
+    padding: 4px 0px;
+}
+
+#references_content a,
+#references_content a:visited {
+    color: black;
+    font-weight: 300;
+    text-decoration: none;
+    border-bottom: 1px solid #F5333F;
+}
+
+#link_report, 
+#link_dashboard {
+    cursor:pointer;
+}
+
+#link_report:hover, 
+#link_dashboard:hover {
+    opacity: 0.85;
+}
+
+
+
+tspan, text {
+    font-family: 'Poppins', sans-serif !important;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#space {
+    height: 2000px;
+}
+
+/* navigation  */
+
+.sticky {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.sticky2 {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    z-index: 50;
+}
+
+#link_home, #link_background, #link_keyfindings, #link_recommendations, #link_methodology,  #link_publications, #link_references {
+    cursor: pointer;
+}
+
+#link_vaccines, #link_trust, #link_accesstoinformation, #link_socioeconomicimpacts {
+    cursor: pointer;
+}
+
+/* MAP */
+
+#hotspot_arg, #hotspot_bol, #hotspot_bra, #hotspot_col, #hotspot_gtm, #hotspot_jam, #hotspot_nic, #hotspot_pan, #hotspot_tto {
+    cursor: pointer;
+}
+
+
+#download_ns1, 
+#download_ns2, 
+#download_ns3, 
+#download_ns4, 
+#download_ns5, 
+#download_ns6, 
+#download_summary, 
+#download_full {
+    cursor: pointer;
+} 
+
+#download_ns1:hover, 
+#download_ns2:hover, 
+#download_ns3:hover, 
+#download_ns4:hover, 
+#download_ns5:hover, 
+#download_ns6:hover, 
+#download_summary:hover, 
+#download_full:hover {
+    opacity: 0.86;
+} 
+
+
+
+
+
+.padding-top {
+    padding: 30px 0px 0px 0px;
+}
+
+.padding-bottom {
+    padding: 0px 0px 30px 0px;
+}
+
+.padding {
+    padding: 30px 0px;
+}
+
+.padding-section {
+    padding: 0px 0px 50px 0px;
+}
+
+#vaccines, #accesstoinformation, #trust, #socioeconomicimpacts {
+    padding-top: 0.8em;
+}
+
+#references {
+    background-color: #f2f2f2;
+}
+
+.lightgrey {
+    background-color: #fbfafa;
+}
+
+.lightblue {
+    background-color: #fafcff;
+}
+
+#hover_host, #hover_idp, #hover_refugee, #hover_migrant, #hover_asylum_seeker {
+    cursor: pointer;
+}
+
+section {
+    position: relative;
+    /* height: 150vh; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bg, .bgx {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#bg1 {
+    background-image: url('../images/bg/bg1.jpg');
+}
+
+#bg2 {
+    background-image: url('../images/bg/bg2.jpg');
+}
+
+#bg3 {
+    background-image: url('../images/bg/bg3.jpg');
+}
+
+#bg4 {
+    background-image: url('../images/bg/bg4.jpg');
+}
+
+#bg50 {
+    background-image: url('../images/bg/bg50.jpg');
+}
+
+#bg5 {
+    background-image: url('../images/bg/bg5.jpg');
+}
+
+#bg6 {
+    background-image: url('../images/bg/bg6.jpg');
+}
+
+#bg7 {
+    background-image: url('../images/bg/bg7.jpg');
+}
+
+#bg8 {
+    background-image: url('../images/bg/bg8.jpg');
+}
+
+#bg9 {
+    background-image: url('../images/bg/bg9.jpg');
+}
+
+#bg10 {
+    background-image: url('../images/bg/bg10.jpg');
+}
+
+#bg11 {
+    background-image: url('../images/bg/bg11.jpg');
+}
+
+#bg12 {
+    background-image: url('../images/bg/bg12.jpg');
+}
+
+#bg13 {
+    background-image: url('../images/bg/bg13.jpg');
+}
+

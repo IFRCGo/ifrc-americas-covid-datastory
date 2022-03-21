@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="526px" viewBox="0 0 1000 526" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg08</title>
+    <g id="svg08" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="44%-were-displaced-a" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+            <tspan x="100" y="49">44% were displaced and 44% were residents. </tspan>
+        </text>
+        <g id="Group" transform="translate(100.000000, 106.232558)">
+            <g id="labels" transform="translate(0.000000, 8.767442)" fill="#000000" font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400">
+                <text id="Host-Community">
+                    <tspan x="82.776" y="17">Host Community</tspan>
+                </text>
+                <text id="Migrant">
+                    <tspan x="156.488" y="75">Migrant</tspan>
+                </text>
+                <text id="No-Answer">
+                    <tspan x="133.8" y="130">No Answer</tspan>
+                </text>
+                <text id="Refugee">
+                    <tspan x="152.728" y="184">Refugee</tspan>
+                </text>
+                <text id="Internally-Displaced-Person">
+                    <tspan x="0.088" y="240">Internally Displaced Person</tspan>
+                </text>
+                <text id="Asylum-Seeker">
+                    <tspan x="100.312" y="294">Asylum Seeker</tspan>
+                </text>
+            </g>
+            <g id="residence_bars" transform="translate(236.000000, 0.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#011E41" x="2.84217094e-13" y="0" width="564" height="51.1648963"></rect>
+                <rect id="Rectangle" fill="#668490" x="-2.84217094e-14" y="54.8058506" width="420.84649" height="51.1648963"></rect>
+                <rect id="Rectangle" fill="#CCD6D9" x="4.26325641e-14" y="109.611701" width="156.956365" height="51.1648963"></rect>
+                <rect id="Rectangle" fill="#668490" x="5.68434189e-14" y="164.417552" width="58.6366468" height="51.1648963"></rect>
+                <rect id="Rectangle" fill="#668490" x="-8.52651283e-14" y="219.223402" width="46.6416407" height="51.1648963"></rect>
+                <rect id="Rectangle" fill="#668490" x="-5.68434189e-14" y="274.029253" width="15.1793309" height="51.1648963"></rect>
+            </g>
+            <g id="residence_labels" transform="translate(249.135211, 12.588945)" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal">
+                <text id="33%" fill="#FFFFFF" fill-rule="nonzero">
+                    <tspan x="357.674793" y="73.8882316">33%</tspan>
+                </text>
+                <text id="12%" fill="#FFFFFF" fill-rule="nonzero">
+                    <tspan x="102.442863" y="129.695219">12%</tspan>
+                </text>
+                <text id="5%" fill="#FFFFFF" fill-rule="nonzero">
+                    <tspan x="10.6288886" y="184.417552">5%</tspan>
+                </text>
+                <text id="4%" fill="#FFFFFF" fill-rule="nonzero">
+                    <tspan x="-8.52651283e-14" y="238.223402">4%</tspan>
+                </text>
+                <text id="1%" fill="#000000">
+                    <tspan x="13.1569235" y="292.041918">1%</tspan>
+                </text>
+                <text id="44%" fill="#FFFFFF" fill-rule="nonzero">
+                    <tspan x="501.979991" y="20">44%</tspan>
+                </text>
+            </g>
+            <text id="(residents)" font-family="Poppins-Regular, Poppins" font-size="13" font-weight="normal" fill="#727272">
+                <tspan x="147" y="44.7674419">(residents)</tspan>
+            </text>
+        </g>
+        <rect id="hover_migrant" fill-opacity="0" fill="#565656" x="178" y="162" width="151" height="43"></rect>
+        <rect id="hover_refugee" fill-opacity="0" fill="#565656" x="178" y="273" width="151" height="43"></rect>
+        <rect id="hover_idp" fill-opacity="0" fill="#565656" x="94" y="328" width="235" height="43"></rect>
+        <rect id="hover_asylum_seeker" fill-opacity="0" fill="#565656" opacity="0.796502976" x="187" y="383" width="142" height="43"></rect>
+        <rect id="hover_host" fill-opacity="0" fill="#565656" x="178" y="114" width="151" height="43"></rect>
+        <text id="Hover-over-labels-fo" font-family="Poppins-Italic, Poppins" font-size="13" font-style="italic" font-weight="normal" fill="#6E6E6E">
+            <tspan x="148.594" y="482">Hover over labels for more </tspan>
+            <tspan x="153.703" y="501">information on definitions</tspan>
+        </text>
+        <g id="Group-2" transform="translate(329.000000, 100.000000)">
+            <g id="info_migrant" transform="translate(0.000000, 33.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="18.5" y="0.5" width="536" height="166"></rect>
+                <text id="The-International-Fe" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                    <tspan x="29" y="23">The International Federation of Red Cross and Red Crescent </tspan>
+                    <tspan x="29" y="44">Societies’ policy on migration describes migrants as people who </tspan>
+                    <tspan x="29" y="65">leave or flee their places of habitual residence to go to a new place, </tspan>
+                    <tspan x="29" y="86">across international borders or within their own state, to seek better </tspan>
+                    <tspan x="29" y="107">or safer perspectives. Migration can be forced or voluntary, but most </tspan>
+                    <tspan x="29" y="128">of the time a combination of choices and constraints are involved, </tspan>
+                    <tspan x="29" y="149">as well as the intent to live abroad for an extended period of time.</tspan>
+                </text>
+                <polyline id="Path-3" stroke="#979797" fill="#FFFFFF" points="19 76.203305 -1.13908882e-13 52.3666326 19 30.9342068"></polyline>
+            </g>
+            <g id="info_refugee" transform="translate(0.000000, 141.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="18.5" y="0.5" width="536" height="226"></rect>
+                <text id="A-person-who,-owing" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                    <tspan x="29" y="22">A person who, owing to a well-founded fear of persecution for </tspan>
+                    <tspan x="29" y="43">reasons of race, religion, nationality, membership of a particular </tspan>
+                    <tspan x="29" y="64">social group or political opinion, is outside the country of his </tspan>
+                    <tspan x="29" y="85">nationality and is unable or, owing to such fear, is unwilling to avail </tspan>
+                    <tspan x="29" y="106">himself of the protection of that country; or who, not having a </tspan>
+                    <tspan x="29" y="127">nationality and being outside the country of his former habitual </tspan>
+                    <tspan x="29" y="148">residence as a result of such events, is unable or, owing to such fear, </tspan>
+                    <tspan x="29" y="169">is unwilling to return to it. Source: Adapted from Convention relating </tspan>
+                    <tspan x="29" y="190">to the Status of Refugees ((adopted 28 July 1951, entered into force </tspan>
+                    <tspan x="29" y="211">22 April 1954) 189 UNTS 137) Art. 1A(2).</tspan>
+                </text>
+                <polyline id="Path-3" stroke="#979797" fill="#FFFFFF" points="19 79.203305 -1.13908882e-13 55.3666326 19 33.9342068"></polyline>
+            </g>
+            <g id="info_asylum_seeker" transform="translate(0.000000, 216.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="18.5" y="0.5" width="488" height="183"></rect>
+                <text id="An-individual-who-is" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                    <tspan x="29" y="24">An individual who is seeking international protection. In</tspan>
+                    <tspan x="29" y="45">countries with individualized procedures, an asylum seeker is</tspan>
+                    <tspan x="29" y="66">someone whose claim has not yet been finally decided on by </tspan>
+                    <tspan x="29" y="87">the country in which he or she has submitted it. Not every </tspan>
+                    <tspan x="29" y="108">asylum seeker will ultimately be recognized as a refugee, but </tspan>
+                    <tspan x="29" y="129">every recognized refugee is initially an asylum seeker.</tspan>
+                </text>
+                <polyline id="Path-3" stroke="#979797" fill="#FFFFFF" points="19 112.203305 -1.13908882e-13 88.3666326 19 66.9342068"></polyline>
+                <text id="Source:-United-Natio" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="30" y="154">Source: United Nations High Commissioner for Refugees, Master Glossary of </tspan>
+                    <tspan x="30" y="171">Terms (2006).</tspan>
+                </text>
+            </g>
+            <g id="info_idp" transform="translate(0.000000, 156.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="18.5" y="0.5" width="536" height="209"></rect>
+                <text id="The-definition-of-in" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                    <tspan x="29" y="25">The definition of internal displacement used by the Movement is set </tspan>
+                    <tspan x="29" y="46">out in the Guiding Principles on Internal Displacement, which states </tspan>
+                    <tspan x="29" y="67">that “internally displaced persons are persons or groups of persons </tspan>
+                    <tspan x="29" y="88">who have been forced or obliged to flee or to leave their homes or </tspan>
+                    <tspan x="29" y="109">places of habitual residence, in particular as a result of or in order to </tspan>
+                    <tspan x="29" y="130">avoid the effects of armed conflict, situations of generalized </tspan>
+                    <tspan x="29" y="151">violence, violations of human rights or natural or human-made </tspan>
+                    <tspan x="29" y="172">disasters, and who have not crossed an internationally recognized </tspan>
+                    <tspan x="29" y="193">State borderlUN doc. E/CN.4/1 998/Add.2 of 11 February 1998).</tspan>
+                </text>
+                <polyline id="Path-3" stroke="#979797" fill="#FFFFFF" points="19 117.203305 -1.13908882e-13 93.3666326 19 71.9342068"></polyline>
+            </g>
+            <g id="info_host">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="18.5" y="0.5" width="458" height="57"></rect>
+                <text id="A-national-or-local" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                    <tspan x="28" y="23">A national or local community in which displaced persons </tspan>
+                    <tspan x="28" y="44">temporarily reside.</tspan>
+                </text>
+                <polyline id="Path-3" stroke="#979797" fill="#FFFFFF" points="19 52.203305 -1.13908882e-13 28.3666326 19 6.93420683"></polyline>
+            </g>
+        </g>
+        <polyline id="Path-5" stroke="#C1C1C1" points="286.04559 446.950042 295.219736 437.775896 304.393883 446.950042"></polyline>
+    </g>
+</svg>

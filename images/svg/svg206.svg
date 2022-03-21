@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="285px" viewBox="0 0 1000 285" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg206</title>
+    <g id="svg206" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box" transform="translate(100.000000, 16.000000)">
+            <rect id="Rectangle" stroke="#60080E" stroke-width="3" fill="#FDF9FA" x="1.5" y="34.5" width="797" height="223"></rect>
+            <circle id="Oval" stroke="#60080E" stroke-width="3" fill="#FEF8F9" cx="396" cy="35" r="33.5"></circle>
+            <rect id="Rectangle" fill="#FEF8F9" x="342" y="37" width="120" height="35"></rect>
+            <text id="5" font-family="Poppins-Bold, Poppins" font-size="39" font-weight="bold" fill="#F5333F">
+                <tspan x="383.825" y="46">5</tspan>
+            </text>
+            <text id="Coordinate-with-part" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+                <tspan x="22" y="69">Coordinate with partners to advocate for vaccine equity. Engage in </tspan>
+                <tspan x="22" y="101">dialogue with countries about their national vaccination plans for migrants. </tspan>
+                <tspan x="22" y="133">Make sure that national vaccination strategies expand to reach remote </tspan>
+                <tspan x="22" y="165">areas so that everyone can reach the sites. Help governments with their </tspan>
+                <tspan x="22" y="197">vaccinations – for example to include drive-through, mobile clinics and </tspan>
+                <tspan x="22" y="229">other easily accessible settings.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

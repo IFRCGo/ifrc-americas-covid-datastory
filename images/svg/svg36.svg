@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="1227px" viewBox="0 0 1000 1227" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg36</title>
+    <g id="svg36" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Most-of-the-informat" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+            <tspan x="100" y="131">Most of the information received by respondents included the description of the </tspan>
+            <tspan x="100" y="163">virus symptoms and its propagation modalities as well as the governmental </tspan>
+            <tspan x="100" y="195">response. </tspan>
+        </text>
+        <text id="Very-few-respondents" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+            <tspan x="100" y="637">Very few respondents reported having received information on patient care, </tspan>
+            <tspan x="100" y="669">however, highlighting a potential awareness gap. No major discrepancies in the </tspan>
+            <tspan x="100" y="701">results were revealed across gender, education level, residency status or age </tspan>
+            <tspan x="100" y="733">groups. </tspan>
+            <tspan x="100" y="765"></tspan>
+            <tspan x="100" y="797" font-family="Poppins-Bold, Poppins" font-weight="bold"></tspan>
+            <tspan x="100" y="829" font-family="Poppins-Bold, Poppins" font-weight="bold">Indigenous population</tspan>
+            <tspan x="100" y="861"></tspan>
+            <tspan x="100" y="893">Indigenous participants reported having received less information on prevention </tspan>
+            <tspan x="100" y="925">measures (41%), isolation measures (24%) and risks and complications (19%) </tspan>
+            <tspan x="100" y="957">than the rest of the respondents.</tspan>
+            <tspan x="100" y="989"></tspan>
+            <tspan x="100" y="1021">Indigenous respondents meanwhile, show very different results than the other </tspan>
+            <tspan x="100" y="1053">participants as 60% of them reported that there is an unwillingness to address </tspan>
+            <tspan x="100" y="1085">COVID-19 issues (against 43% of other respondents) while only 10% of them </tspan>
+            <tspan x="100" y="1117">believe COVID-19 is not a priority (against 21% of non-indigenous respondents) </tspan>
+            <tspan x="100" y="1149">and none of them reported that the information did not address their main </tspan>
+            <tspan x="100" y="1181">needs.</tspan>
+        </text>
+        <g id="Group" transform="translate(101.000000, 239.000000)" fill-rule="nonzero">
+            <text id="Symptoms" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="102.82" y="17.034302">Symptoms</tspan>
+            </text>
+            <text id="Routes-Of-Transmission" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="9.385" y="47.1672631">Routes Of Transmission</tspan>
+            </text>
+            <text id="Prevention-Measures" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="28.24" y="77.3002242">Prevention Measures</tspan>
+            </text>
+            <text id="New-Variants" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="85.255" y="107.433185">New Variants</tspan>
+            </text>
+            <text id="Isolation-Measures" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="44.185" y="138.359119">Isolation Measures</tspan>
+            </text>
+            <text id="Risks-And-Complications" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="0.37" y="168.49208">Risks And Complications</tspan>
+            </text>
+            <text id="Process-Of-Reporting" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="28.675" y="198.625041">Process Of Reporting</tspan>
+            </text>
+            <text id="Vaccine-Info" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="91.09" y="228.758002">Vaccine Info</tspan>
+            </text>
+            <text id="Contact-For-Assistance" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="11.395" y="258.890963">Contact For Assistance</tspan>
+            </text>
+            <text id="Testing" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="129.865" y="289.816897">Testing</tspan>
+            </text>
+            <text id="Mental-Health" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="80.32" y="319.949858">Mental Health</tspan>
+            </text>
+            <rect id="Rectangle" fill="#668490" x="196" y="0" width="593.851501" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="196" y="30.3195429" width="495.503037" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="196" y="60.6390858" width="429.177654" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="196" y="90.9586287" width="340.174003" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="196" y="121.278172" width="284.674928" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="196" y="151.597714" width="233.050532" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="196" y="181.917257" width="160.229363" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="196" y="212.2368" width="158.975791" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="196" y="242.556343" width="158.747868" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="196" y="272.875886" width="106.325744" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="196" y="303.195429" width="90.5991064" height="24"></rect>
+            <text id="19%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="763" y="15.7667727">19%</tspan>
+            </text>
+            <text id="16%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="663" y="46.7667727">16%</tspan>
+            </text>
+            <text id="14%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="597" y="76.7667727">14%</tspan>
+            </text>
+            <text id="11%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="512" y="106.766773">11%</tspan>
+            </text>
+            <text id="9%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="458" y="137.766773">9%</tspan>
+            </text>
+            <text id="8%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="405" y="167.766773">8%</tspan>
+            </text>
+            <text id="5%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="333" y="197.766773">5%</tspan>
+            </text>
+            <text id="5%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="331" y="227.766773">5%</tspan>
+            </text>
+            <text id="5%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="332" y="257.766773">5%</tspan>
+            </text>
+            <text id="3%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="281" y="288.766773">3%</tspan>
+            </text>
+            <text id="3%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="265" y="318.766773">3%</tspan>
+            </text>
+        </g>
+        <g id="Group-10" transform="translate(100.000000, 36.803030)" fill="#000000" font-family="Poppins-Bold, Poppins" font-size="20" font-weight="bold">
+            <text id="TYPE-OF-INFORMATION">
+                <tspan x="0" y="21">TYPE OF INFORMATION RECEIVED ABOUT COVID-19</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

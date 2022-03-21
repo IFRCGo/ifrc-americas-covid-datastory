@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="835px" viewBox="0 0 1000 835" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg14</title>
+    <g id="svg14" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="legend" transform="translate(298.000000, 152.000000)">
+            <rect id="Rectangle" fill="#F5333F" x="0" y="1.76" width="21.1293169" height="21.12"></rect>
+            <text id="Yes,-received-(%)" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                <tspan x="29.9331989" y="20">Yes, received (%)</tspan>
+            </text>
+            <rect id="Rectangle" fill="#668490" x="229.801865" y="1.76" width="21.1293169" height="21.12"></rect>
+            <text id="No-/-Unsure" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#000000">
+                <tspan x="259.735064" y="20">No / Unsure</tspan>
+            </text>
+        </g>
+        <path d="M530.584003,343.907803 C469.593151,270.182528 360.866334,259.225218 286.439755,318.790578 L284.194987,320.617184 L328.814667,374.553111 C373.496652,337.588958 439.683924,343.845497 476.648076,388.527482 C496.924987,413.038057 504.737078,444.666073 498.848067,475.347107 L567.593152,488.542307 C577.098349,439.021468 565.236029,385.794907 530.584003,343.907803 Z" id="#FAFF81:39%" fill="#668490" fill-rule="nonzero" transform="translate(427.471952, 384.497289) rotate(-101.000000) translate(-427.471952, -384.497289) "></path>
+        <path d="M502.89133,227 L502.89133,297 C560.881229,297 607.89133,344.010101 607.89133,402 C607.89133,459.989899 560.881229,507 502.89133,507 C477.951591,507 454.527521,498.365068 435.784467,482.762676 L391,536.561853 C421.333146,561.812277 460.338597,577 502.89133,577 C599.541162,577 677.89133,498.649831 677.89133,402 C677.89133,305.350169 599.541162,227 502.89133,227 Z" id="#161032:61%" fill="#F5333F" fill-rule="nonzero"></path>
+        <g id="question" transform="translate(100.000000, 50.000000)">
+            <g id="question-title" transform="translate(50.000000, 0.000000)" fill="#000000" font-family="Poppins-Bold, Poppins" font-size="20" font-weight="bold">
+                <text id="HAVE-YOU-RECEIVED-AN">
+                    <tspan x="0" y="21">HAVE YOU RECEIVED ANY KIND OF VACCINATION (NOT JUST COVID-19) IN </tspan>
+                    <tspan x="0" y="49">YOUR ADULT LIFE?</tspan>
+                </text>
+            </g>
+            <g id="question-icon" transform="translate(0.000000, 5.196970)">
+                <path d="M1.38600004,2.22727273 L21,2.22727273 C29.2842712,2.22727273 36,8.94300148 36,17.2272727 L36,24.55703 C36,32.9771635 29.1741332,39.8030303 20.7539997,39.8030303 L1.38600004,39.8030303 C0.620533353,39.8030303 3.15787237e-16,39.1824969 0,38.4170303 L0,3.61327276 C-9.37426324e-17,2.84780608 0.620533353,2.22727273 1.38600004,2.22727273 Z" id="Rectangle" fill="#3B3B3B"></path>
+                <text id="Q" font-family="Poppins-Bold, Poppins" font-size="27.72" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="6" y="29">Q</tspan>
+                </text>
+            </g>
+        </g>
+        <text id="61%" font-family="Poppins-Bold, Poppins" font-size="59" font-weight="bold" fill="#000000">
+            <tspan x="454" y="419">61%</tspan>
+        </text>
+        <text id="Results-show-high-ga" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+            <tspan x="100" y="673">Results show high gaps were identified between countries, with Brazil and </tspan>
+            <tspan x="100" y="705">Panama showing high percentages of vaccinated adults (both 87%) while </tspan>
+            <tspan x="100" y="737">Jamaica, Guatemala and Argentina reported lower figures (respectively 26%, </tspan>
+            <tspan x="100" y="769">48% and 51%). </tspan>
+        </text>
+    </g>
+</svg>

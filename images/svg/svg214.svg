@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="257px" viewBox="0 0 1000 257" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg214</title>
+    <g id="svg214" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box" transform="translate(100.000000, 16.000000)">
+            <rect id="Rectangle" stroke="#60080E" stroke-width="3" fill="#FDF9FA" x="1.5" y="34.5" width="797" height="188"></rect>
+            <circle id="Oval" stroke="#60080E" stroke-width="3" fill="#FDF9FA" cx="396" cy="35" r="33.5"></circle>
+            <rect id="Rectangle" fill="#FDF9FA" x="342" y="37" width="120" height="35"></rect>
+            <text id="11" font-family="Poppins-Bold, Poppins" font-size="39" font-weight="bold" fill="#F5333F">
+                <tspan x="381.836" y="46">11</tspan>
+            </text>
+            <text id="Create-local-partner" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+                <tspan x="22" y="69">Create local partnerships to support people’s economic recovery with a </tspan>
+                <tspan x="22" y="101">development perspective. Design the rebuilding of livelihoods in a way that </tspan>
+                <tspan x="22" y="133">supports people’s economic recovery. A good option is to develop local </tspan>
+                <tspan x="22" y="165">partnerships with NGOs, the private sector, and governments to approach </tspan>
+                <tspan x="22" y="197">economic recovery with a developmental vision. </tspan>
+            </text>
+        </g>
+    </g>
+</svg>

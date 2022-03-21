@@ -1,0 +1,479 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- cache -->
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  
+  <title>COVID-19 in the Americas: Listening to the most vulnerable</title>
+  <meta name="description" content="Community perceptions from migrants, refugees, host communities and indigenous populations">
+  <meta name="author" content="IFRC">
+  
+  <meta property="og:title" content="COVID-19 in the Americas: Listening to the most vulnerable">
+  <meta property="og:type" content="website">
+  <meta property="og:author" content="IFRC">
+  <meta property="og:url" content="">
+  <meta property="og:description" content="Community perceptions from migrants, refugees, host communities and indigenous populations">
+  <meta property="og:image" content="apple-touch-icon.png">
+  
+  <link rel="icon" href="favicon.ico">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="css/styles.css?v=40">
+  <link rel="stylesheet" href="css/media.css?v=40">
+  
+  <script src="js/vendor/d3.v7.min.js"></script>
+  <script src="js/vendor/jquery-3.6.0.min.js"></script>
+  <script src="js/vendor/gsap.min.js"></script>
+  <!-- <script src="js/vendor/ScrollToPlugin.min.js"></script> -->
+  <script src="js/vendor/ScrollTrigger.min.js"></script>
+  
+</head>
+
+<body>
+  
+  <div id="loading">
+    <img src="images/loader1.gif"/>
+  </div>
+  
+  <div id="home">
+    <section>
+      <div id="bg1" class="bg"></div>
+      <object type="image/svg+xml" data="images/svg/svg01.svg?v=502" class="svg"></object>
+    </section>
+  </div>
+  
+  <div id="nav" class="sticky">
+    <object type="image/svg+xml" data="images/svg/svg_nav.svg?v=502" class="svg"></object>
+  </div>
+  
+  <div id="background">
+    
+    <div class="padding">
+      <object type="image/svg+xml" data="images/svg/intro.svg?v=502" class="svg"></object>
+    </div>
+    
+    <!-- intro text -->
+    <!-- <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg05.svg?v=502" class="svg"></object>
+    </div> -->
+  
+    
+  </div>
+  
+  
+  <!-- key findings banner bg -->
+  
+  <div>
+    
+    <section>
+      <div id="bg2" class="bg"></div>
+      <object type="image/svg+xml" data="images/svg/key_findings_gradient.svg?v=502" class="svg"></object>
+    </section>
+    
+    <div id="keyfindings" class="paddingx">
+      <object type="image/svg+xml" data="images/svg/key_findings_banner.svg?v=502" class="svg"></object>
+    </div>
+    
+    <div id='subnav' class="sticky2">
+      <object type="image/svg+xml" data="images/svg/sticky2.svg?v=502" class="svg"></object>
+    </div>
+    
+    
+    <div id="vaccines">
+      <div class="padding">
+        <object type="image/svg+xml" data="images/svg/svg11.svg?v=502" class="svg"></object>
+      </div>
+      <div class="padding lightgrey">
+        <object type="image/svg+xml" data="images/svg/svg12.svg?v=502" class="svg"></object>
+      </div>
+      <!-- OWID -->
+      <!-- <div class="padding">
+        <object type="image/svg+xml" data="images/svg/svg13.svg?v=502" class="svg"></object>
+      </div> -->
+      <!-- any kind of vaccine -->
+      <!-- <div class="padding">
+        <object type="image/svg+xml" data="images/svg/svg14.svg?v=502" class="svg"></object>
+      </div> -->
+      <!-- map - any kind of vaccine -->
+      <!-- <div class="padding">
+        <object type="image/svg+xml" data="images/svg/svg15.svg?v=502" class="svg"></object>
+      </div> -->
+      <!-- do you know where to go to get vaccinated -->
+      <div class="padding">
+        <object type="image/svg+xml" data="images/svg/svg16.svg?v=502" class="svg"></object>
+      </div>
+      
+      <section>
+        <div id="bg3" class="bg"></div>
+        <object type="image/svg+xml" data="images/svg/svg17.svg?v=502" class="svg"></object>
+      </section>
+      
+      <div class="padding-top">
+        <object type="image/svg+xml" data="images/svg/svg18.svg?v=502" class="svg"></object>
+      </div>
+      
+      <div class="paddingx map">
+        <object type="image/svg+xml" data="images/svg/svg19.svg?v=502" class="svg"></object>
+      </div>
+      
+      <div class="padding-bottom">
+        <object type="image/svg+xml" data="images/svg/svg21.svg?v=502" class="svg"></object>
+      </div>
+      
+      <!-- trinidad and tobago migrant quote -->
+      <div class="padding-section">
+        <section>
+          <div id="bg50" class="bg"></div>
+          <object type="image/svg+xml" data="images/svg/svg22quote.svg?v=502" class="svg"></object>
+        </section>
+      </div>
+      
+      <!-- jamaica case study -->
+      <section>
+        <div id="bg5" class="bg"></div>
+        <object type="image/svg+xml" data="images/svg/svg22.svg?v=502" class="svg"></object>
+      </section>
+      
+    </div><!-- /#vaccines -->
+    
+    <div id="trust">
+      <div class="padding-top">
+        <object type="image/svg+xml" data="images/svg/svg23.svg?v=502" class="svg"></object>
+      </div>
+      
+      <!-- bolivia quote -->
+      <section>
+        <div id="bg6" class="bg"></div>
+        <object type="image/svg+xml" data="images/svg/svg24quote.svg?v=502" class="svg"></object>
+      </section>
+      
+      <!-- large differences exist... -->
+      <div class="padding-top">
+        <object type="image/svg+xml" data="images/svg/svg25.svg?v=502" class="svg"></object>
+      </div>
+      
+      <!-- panama case study -->
+      <section>
+        <div id="bg4" class="bg"></div>
+        <object type="image/svg+xml" data="images/svg/svg20.svg?v=502" class="svg"></object>
+      </section>
+      
+      <!-- map - no trust at all -->
+      <div class="padding map">
+        <object type="image/svg+xml" data="images/svg/svg26map.svg?v=502" class="svg"></object>
+      </div>
+      
+      <!-- bolivia case study -->
+      <section>
+        <div id="bg7" class="bg"></div>
+        <object type="image/svg+xml" data="images/svg/svg27casestudy.svg?v=502" class="svg"></object>
+      </section>
+      
+      <!-- trust in healthcare providers bar chart -->
+      <div class="padding-top">
+        <object type="image/svg+xml" data="images/svg/svg28.svg?v=502" class="svg"></object>
+      </div>  
+      
+      <!-- map - high trust in healthcare providers -->
+      <div class="padding-bottom map">
+        <object type="image/svg+xml" data="images/svg/svg29map.svg?v=502" class="svg"></object>
+      </div>
+      
+      <!-- brazil case study -->
+      <section>
+        <div id="bg8" class="bg"></div>
+        <object type="image/svg+xml" data="images/svg/svg30casestudy.svg?v=502" class="svg"></object>
+      </section>
+      
+      <!-- trust in decision-makers before/after -->
+      <div class="padding-top">
+        <object type="image/svg+xml" data="images/svg/svg31.svg?v=502" class="svg"></object>
+      </div>  
+      
+      <!-- trust in humanitarians before/after -->
+      <div class="padding-bottom">
+        <object type="image/svg+xml" data="images/svg/svg32.svg?v=502" class="svg"></object>
+      </div>  
+      
+      <!-- trinidad and tobago case study -->
+      <section>
+        <div id="bg9" class="bg"></div>
+        <object type="image/svg+xml" data="images/svg/svg33casestudy.svg?v=502" class="svg"></object>
+      </section>
+    </div>
+    <!-- /#trust -->
+    
+    <div id="accesstoinformation">
+      <!-- access to information -->
+      <div class="padding-top">
+        <object type="image/svg+xml" data="images/svg/svg34.svg?v=502" class="svg"></object>
+      </div>  
+      
+      <!-- argentina case study -->
+      <section>
+        <div id="bg10" class="bg"></div>
+        <object type="image/svg+xml" data="images/svg/svg35casestudy.svg?v=502" class="svg"></object>
+      </section>
+      
+      <!-- type of information received -->
+      <div class="padding-top">
+        <object type="image/svg+xml" data="images/svg/svg36.svg?v=502" class="svg"></object>
+      </div>  
+      
+      <!-- trusted information sources -->
+      <div class="padding-bottom">
+        <object type="image/svg+xml" data="images/svg/svg37.svg?v=502" class="svg"></object>
+      </div>  
+      
+      <!-- nicaragua case study -->
+      <section>
+        <div id="bg11" class="bg"></div>
+        <object type="image/svg+xml" data="images/svg/svg38casestudy.svg?v=502" class="svg"></object>
+      </section>
+    </div>
+    <!-- /#accesstoinformation -->
+    
+    <div id="socioeconomicimpacts">
+      <!-- SOCIO-ECONOMIC IMPACTS -->
+      <div class="padding">
+        <object type="image/svg+xml" data="images/svg/svg39.svg?v=502" class="svg"></object>
+      </div>  
+      
+      <!-- argentina migrant quote -->
+      <div class="padding-section">
+        <section>
+          <div id="bg12" class="bg"></div>
+          <object type="image/svg+xml" data="images/svg/svg40quote.svg?v=502" class="svg"></object>
+        </section>
+      </div>
+      
+      <!-- trinidad and tobago migrant quote -->
+      <section>
+        <div id="bg13" class="bg"></div>
+        <object type="image/svg+xml" data="images/svg/svg41quote.svg?v=502" class="svg"></object>
+      </section>
+      
+      <!-- economic situation before -->
+      <div class="padding-top">
+        <object type="image/svg+xml" data="images/svg/svg42.svg?v=502" class="svg"></object>
+      </div>  
+      
+      <!-- economic situation change -->
+      <div class="paddingx">
+        <object type="image/svg+xml" data="images/svg/svg43.svg?v=502" class="svg"></object>
+      </div>  
+      
+      <!-- map - significant economic change -->
+      <div class="paddingx map">
+        <object type="image/svg+xml" data="images/svg/svg44map.svg?v=502" class="svg"></object>
+      </div>
+      
+      <!-- indigenous economic impacts -->
+      <div class="padding-bottom">
+        <object type="image/svg+xml" data="images/svg/svg45.svg?v=502" class="svg"></object>
+      </div>  
+      
+    </div>
+    <!-- /#socioeconomicimpacts -->
+    <div id="end-key-findings"></div>
+    
+  </div><!-- /#keyfindings -->
+  
+  <div id="recommendations">
+    <!-- RECOMMENDATIONS banner -->
+    <div id="recommendations" class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg80.svg?v=502" class="svg"></object>
+    </div>  
+    
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg200.svg?v=502" class="svg"></object>
+    </div>  
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg201.svg?v=502" class="svg"></object>
+    </div>  
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg202.svg?v=502" class="svg"></object>
+    </div>  
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg203.svg?v=502" class="svg"></object>
+    </div>  
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg204.svg?v=502" class="svg"></object>
+    </div>  
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg205.svg?v=502" class="svg"></object>
+    </div>  
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg206.svg?v=502" class="svg"></object>
+    </div>  
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg207.svg?v=502" class="svg"></object>
+    </div>  
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg208.svg?v=502" class="svg"></object>
+    </div>  
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg209.svg?v=502" class="svg"></object>
+    </div>  
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg210.svg?v=502" class="svg"></object>
+    </div>  
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg211.svg?v=502" class="svg"></object>
+    </div>  
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg212.svg?v=502" class="svg"></object>
+    </div>  
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg213.svg?v=502" class="svg"></object>
+    </div>  
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg214.svg?v=502" class="svg"></object>
+    </div>  
+  </div><!-- /#recommendations -->
+  
+  
+  <div id="publications">
+    <!-- PUBLICATIONS banner -->
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg_publications.svg?v=502" class="svg"></object>
+    </div>    
+  </div>
+  
+  
+  <div id="methodology">
+    <!-- METHODOLOGY banner -->
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg60.svg?v=502" class="svg"></object>
+    </div>  
+    
+    <!-- background banner -->
+    <!-- <div class="padding">
+      <object type="image/svg+xml" data="images/svg/svg03.svg?v=502" class="svg"></object>
+    </div> -->
+    
+    <!-- background map -->
+    <div id="background_map" class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg05map.svg?v=502" class="svg"></object>
+    </div>
+    
+    <!-- demography of participants -->
+    <div class="paddingx lightgrey">
+      <object type="image/svg+xml" data="images/svg/svg06.svg?v=502" class="svg"></object>
+    </div>
+    <div class="padding">
+      <object type="image/svg+xml" data="images/svg/svg07.svg?v=502" class="svg"></object>
+    </div>
+    <!-- residence status -->
+    <div class="padding lightblue">
+      <object type="image/svg+xml" data="images/svg/svg08.svg?v=502" class="svg"></object>
+    </div>
+    <div class="padding">
+      <object type="image/svg+xml" data="images/svg/svg09.svg?v=502" class="svg"></object>
+    </div>
+  </div>
+  <!-- /#methodology -->
+  
+  
+  <div id="references">
+    <!-- ACKNOWLEDGEMENTS & REFERENCES banner -->
+    <div class="paddingx">
+      <object type="image/svg+xml" data="images/svg/svg100.svg?v=502" class="svg"></object>
+    </div>  
+    
+    <div id="references_body">
+      <div id="references_content">
+        
+        <H2>ACKNOWLEDGEMENTS</H2>
+        
+        <p>Many of the authors, contributors and supporters of this research were themselves working in the midst of various challenges, including the COVID-19 pandemic. Country teams had to adapt their surveys and ways of working in order to follow sanitary measures and restrictions. The International Federation of the Red Cross and Red Crescent Societies (IFRC) would like to thank the National Societies, volunteers, host communities, migrants, refugees and indigenous groups that offered their time and effort to make this research a success.</p>
+        
+        <ul>
+          <li>This consolidated report was coordinated and authored by Okular-Analytics based on country level research from nine National Red Cross and Red Crescent Societies (RCRC).</li>
+          <li>This regional research was designed, led and coordinated by Rachel Yales and Mónica Posada (IFRC, Geneva) with the invaluable support from Caroline Austin.</li>
+          <li>Special thanks to Diana Medina and Carla Guananga (IFRC, Americas Regional Office) for all the regional coordination and technical support.</li>
+          <li>Power BI Dashboard: Special thanks to Fernando Suarez Jimenez and Heleen Elenbaas from 510 for their invaluable support in processing the data and designing the survey dashboard.</li>
+        </ul>
+        
+        <h4>Main contributors and national research teams:</h4>
+        <ul>
+          <li><b>Argentina:</b> Argentina Red Cross Humanitarian Observatory and Argentina Red Cross volunteers</li>
+          <li><b>Bolivia:</b> Country report written by the Bolivian Red Cross.</li>
+          <li><b>Brazil:</b> Country report written by Luana Galdino and Rozana Ribeiro from the Brazilian Red Cross, with contributions from Observatorio Humanitario.</li>
+          <li><b>Colombia:</b> Colombia Red Cross</li>
+          <li><b>Guatemala:</b> Guatemalan Red Cross volunteers</li>
+          <li><b>Jamaica:</b> The Jamaica Red Cross Volunteers with a special  mention to Theo Gordon, Karl Wiggan and Shanrick Thomas without whom the survey would have not been a success.</li>
+          <li><b>Nicaragua:</b> Country report written by the Nicaraguan Red Cross.</li>
+          <li><b>Panama:</b> Panama Red Cross Volunteers</li>
+          <li><b>Trinidad and Tobago:</b> TTRC Volunteers and TTRC staff Rayanthony Warner, Carysse Baird , Julio Pereira. With special thanks to Dr. Asha Kambon who provided invaluable guidance throughout the process.</li>
+        </ul>
+        
+        <b>Storymap design and development:</b> Matthew Lukin Smawfield from <a target="_blank" href="http://datafriendlyspace.org">Data Friendly Space</a></br>
+        <br/>
+        <b>Report layout and design:</b> Hadley Kincade, Minna Sell and René Berzia<br/>
+        
+        
+        
+        <hr/>
+        
+        
+        <h2>REFERENCES</h2>
+        <h3> Reports, articles and press releases:</h3>
+        <p>DW. 2021, Hope for Carnival comeback amid Brazil's COVID-19 success. Online, 3p. <a target="_blank" href="https://www.dw.com/en/hope-for-carnival-comeback-amid-brazils-covid-19-success/a-59972382">Hope for Carnival comeback amid Brazil's COVID-19 success | Latin America | DW | 29.11.2021</a></p>
+        <p>IFRC. 2021,&nbsp;Drowning just below the surface: The socioeconomic consequences of the COVID-19 pandemic. Switzerland, 56p. <a target="_blank" href="https://www.ifrc.org/document/drowning-just-below-surface-socioeconomic-consequences-covid-19-pandemic">https://www.ifrc.org/document/drowning-just-below-surface-socioeconomic-consequences-covid-19-pandemic</a>&nbsp;</p>
+        <p>IFRC. 2021,&nbsp;Locked down and left out? Why access to basic services for migrants is critical to our COVID-19 response and recovery. Melbourne, 50p. <a target="_blank" href="https://reliefweb.int/sites/reliefweb.int/files/resources/EN-RCRC-Global-Migration-Lab-Locked-down-left-out-COVID19.pdf">EN-RCRC-Global-Migration-Lab-Locked-down-left-out-COVID19.pdf (reliefweb.int)</a></p>
+        <p>IFRC. 2021, Sight Unseen: A vision for effective access to COVID-19 vaccines for migrants. Melbourne, 24p. <a target="_blank" href="https://www.ifrc.org/sites/default/files/2021-08/RCRC-GML-Sight-Unseen-COVID19-Vaccines-FINAL.pdf">RCRC-GML-Sight-Unseen-COVID19-Vaccines-FINAL.pdf (ifrc.org)</a></p>
+        <p>Moore D. and all. 2021, Low COVID-19 vaccine hesitancy in Brazil. Rio de Janeiro: Vaccine, 7p. <a target="_blank" href="https://www.sciencedirect.com/sdfe/reader/pii/S0264410X21011920/pdf">https://www.sciencedirect.com/sdfe/reader/pii/S0264410X21011920/pdf</a>&nbsp;</p>
+        <p>OECD. 2018, Brazil Policy Brief. Public governance. Online, 2p. <a target="_blank" href="https://www.oecd.org/policy-briefs/Brazil-Building-public-trust-en.pdf">Brazil-Building-public-trust-en.pdf (oecd.org)</a></p>
+        <p>OECD. 2020, Covid-19 en América Latina y el Caribe: Panorama de las respuestas de los gobiernos a la crisis. Online, 34p. <a target="_blank" href="https://read.oecd-ilibrary.org/view/?ref%3D132_132868-3ikx3m7ikl%26title%3DCovid-19-en-America-Latina-y-el-Caribe-panorama-de-las-respuestas-de-los-gobiernos-a-la-crisis">COVID-19 en América Latina y el Caribe: Panorama de las respuestas de los gobiernos a la crisis - OECD (oecd-ilibrary.org)</a></p>
+        <p>OXFAM. 2020, Oxfam llama a los gobiernos de América Latina a actuar para evitar la profundización de la desigualdad ante la crisis por COVID-19. Online, 1p. <a target="_blank" href="https://www.oxfam.org/en/node/12128">Oxfam llama a los gobiernos de América Latina a actuar para evitar la profundización de la desigualdad ante la crisis por COVID-19 | Oxfam International</a></p>
+        <p>PAHO. 2021, COVID-19 Situation Report n65. Washington DC, 16p. <a target="_blank" href="https://iris.paho.org/bitstream/handle/10665.2/55367/COVID-19SitRep65_eng.pdf?sequence%3D1%26isAllowed%3Dy">COVID-19SitRep65_eng.pdf (paho.org)</a></p>
+        <p>R4V. 2020,&nbsp;Regional Refugee and Migrant Response Plan for Refugees and Migrants from Venezuela 2020. 54p. <a target="_blank" href="https://reliefweb.int/report/colombia/rmrp-2020-regional-refugee-and-migrant-response-plan-refugees-and-migrants-0">https://reliefweb.int/report/colombia/rmrp-2020-regional-refugee-and-migrant-response-plan-refugees-and-migrants-0</a>&nbsp;</p>
+        <p>R4V. 2021, SITREP October 2021 - Southern Cone. Online, 1p. <a target="_blank" href="https://www.r4v.info/en/document/sitrep-october-2021-southern-cone">https://www.r4v.info/en/document/sitrep-october-2021-southern-cone</a>&nbsp;</p>
+        <p>UNHCR. 2021, Trinidad and Tobago Factsheet, October 2021. Online, 2p. <a target="_blank" href="https://reliefweb.int/report/trinidad-and-tobago/unhcr-trinidad-tobago-fact-sheet-october-2021">https://reliefweb.int/report/trinidad-and-tobago/unhcr-trinidad-tobago-fact-sheet-october-2021</a>&nbsp;</p>
+        <br/>
+        <h3>National reports from Red Cross and Red Crescent Societies:</h3>
+        <p>Argentine Red Cross. El impacto de COVID-19 en las poblaciones vulnerables de migrantes - Estudio de percepción en Argentina.</p>
+        <p>Bolivian Red Cross. El impacto de COVID-19 en poblaciones vulnerables - Estudio de percepción de América, 29 October 2021. 16p.</p>
+        <p>Brazilian Red Cross. O impacto do COVID-19 sobre populações vulneráveis: pessoas baixa renda, migrantes e idosos - Estudo de percepção do Brasil, 21 September 2021. 15p.</p>
+        <p>Colombian Red Cross. Consultoría para la realización de estudio de percepción que explorará los conocimientos, percepciones y prácticas de las comunidades, relacionados con la COVID-19 en Colombia, 6 August 2021. 51p.</p>
+        <p>Guatemalteca Red Cross. El impacto de COVID-19 en las poblaciones vulnerables de migrantes e indígenas - Estudio de percepción de América (Guatemala), 1 October 2021. 12p.</p>
+        <p>Nicaraguan Red Cross. Medidas de prevención y vacuna contra la COVID-19 - Estudio de percepción de Nicaragua, 8 September 2021. 16p.</p>
+        <p>Panamanian Red Cross. Encuestas de percepción sobre la aceptación de la vacuna COVID-19 en las comunidades originarias y urbanas, 17 October 2021. 10p.</p>
+        <p>Trinidad and Tobago Red Cross, COVID-19 Pandemic KPA Study, 7 December 2021. 28p.</p>
+        <br/>
+        <h3>Websites and dashboards:</h3>
+        <p>CEPAL. Observatorio COVID-19 en América Latina y el Caribe: acciones por país, visited on the 14 July 2021. <a target="_blank" href="https://www.cepal.org/es/temas/covid-19">COVID-19 | Comisión Económica para América Latina y el Caribe (cepal.org)</a></p>
+        <p>IOM. Migration Data Portal, visited on the 14 July 2021. <a target="_blank" href="https://www.migrationdataportal.org/">Migration Data Portal</a></p>
+        <p>PAHO. COVID-19 Vaccination in the Americas, visited on the 14 July 2021. <a target="_blank" href="https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp">https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp</a>&nbsp;</p>
+        <p>UNDP. COVID-19 Pandemic Response Dataset, visited on the 14 July 2021. <a target="_blank" href="https://www.latinamerica.undp.org/content/rblac/en/home/coronavirus.html">COVID-19 pandemic (undp.org)</a></p>
+        <p>WHO. WHO Coronavirus (COVID-19) Dashboard, visited on the 14 July 2021. <a target="_blank" href="https://covid19.who.int/">WHO Coronavirus (COVID-19) Dashboard | WHO Coronavirus (COVID-19) Dashboard With Vaccination Data</a></p>
+        
+        <br/>
+        <br/>
+        <b>© International Federation of Red Cross and Red Crescent Societies, Geneva, 2022</b>
+      </div>
+    </div>
+    
+    <!-- footer logos -->
+    <div class="padding-top">
+      <object type="image/svg+xml" data="images/svg/footer_logos.svg?v=502" class="svg"></object>
+    </div>  
+    
+  </div>
+  <!-- /#references -->
+  
+  <script src="js/main.js?v=40"></script>
+  
+</body>
+</html>

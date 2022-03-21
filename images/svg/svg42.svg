@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="573px" viewBox="0 0 1000 573" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg42</title>
+    <g id="svg42" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1000" height="573"></rect>
+        <text id="The-economic-situati" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+            <tspan x="100" y="433">The economic situation of participants before the COVID-19 pandemic was </tspan>
+            <tspan x="100" y="465">depicted as mainly good (41%) or adequate (39%), with the exception of </tspan>
+            <tspan x="100" y="497">Argentina and Nicaragua, where respondents reported lower economic stability.</tspan>
+        </text>
+        <g id="Group-4" transform="translate(95.309237, 142.000000)">
+            <g id="bars" transform="translate(0.000000, 73.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#F5333F" x="3.69076305" y="0" width="4.81927711" height="100"></rect>
+                <rect id="Rectangle" fill="#FBADB2" x="8.51004016" y="0" width="64.2570281" height="100"></rect>
+                <rect id="Rectangle" fill="#99A5B3" x="72.7670683" y="0" width="313.253012" height="100"></rect>
+                <rect id="Rectangle" fill="#668490" x="386.02008" y="0" width="329.317269" height="100"></rect>
+                <text id="1%" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#000000">
+                    <tspan x="0" y="124">1%</tspan>
+                </text>
+                <text id="8%" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="28.4859438" y="57">8%</tspan>
+                </text>
+                <text id="39%" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="216.534137" y="57">39%</tspan>
+                </text>
+                <text id="41%" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="545.004016" y="57">41%</tspan>
+                </text>
+                <rect id="Rectangle" fill="#011E41" x="715.337349" y="0" width="88.3534137" height="100"></rect>
+                <text id="11%" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="748.004016" y="57">11%</tspan>
+                </text>
+            </g>
+            <g id="Group-3" transform="translate(88.690763, 0.000000)">
+                <rect id="Rectangle" fill="#F5333F" x="0" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Bad" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="29.9331989" y="20">Bad</tspan>
+                </text>
+                <rect id="Rectangle" fill="#FBADB2" x="128.950466" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Poor" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="159.920343" y="20">Poor</tspan>
+                </text>
+                <rect id="Rectangle" fill="#99A5B3" x="257.900933" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Fair" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="287.653138" y="20">Fair</tspan>
+                </text>
+                <rect id="Rectangle" fill="#668490" x="386.851399" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Good" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#000000">
+                    <tspan x="417.735064" y="20">Good</tspan>
+                </text>
+                <rect id="Rectangle" fill="#011E41" x="515.801865" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Excellent" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#000000">
+                    <tspan x="547.735064" y="20">Excellent</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="question" transform="translate(100.000000, 43.096498)">
+            <text id="question-title" font-family="Poppins-Bold, Poppins" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="51" y="27.9035021">HOW WOULD YOU DESCRIBE YOUR ECONOMIC SITUATION BEFORE COVID-19?</tspan>
+            </text>
+            <g id="question-icon">
+                <path d="M1.38600004,2.14179673 L22,2.14179673 C30.2842712,2.14179673 37,8.85752548 37,17.1417967 L37,24.6575018 C37,33.0776353 30.1741332,39.9035021 21.7539997,39.9035021 L1.38600004,39.9035021 C0.620533353,39.9035021 3.15787237e-16,39.2829687 0,38.5175021 L0,3.52779676 C-9.37426324e-17,2.76233008 0.620533353,2.14179673 1.38600004,2.14179673 Z" id="Rectangle" fill="#3B3B3B"></path>
+                <text id="Q" font-family="Poppins-Bold, Poppins" font-size="27.72" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="6.16666667" y="29">Q</tspan>
+                </text>
+            </g>
+        </g>
+        <line x1="101.409639" y1="315" x2="101.409639" y2="321.609723" id="Path-11" stroke="#4C4C4C" opacity="0.20199149"></line>
+    </g>
+</svg>

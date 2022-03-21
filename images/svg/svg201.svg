@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="353px" viewBox="0 0 1000 353" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg201</title>
+    <g id="svg201" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box" transform="translate(100.000000, 16.000000)">
+            <rect id="Rectangle" stroke="#011E41" stroke-width="3" fill="#F6F9FA" x="1.5" y="34.5" width="797" height="286"></rect>
+            <circle id="Oval" stroke="#011E41" stroke-width="3" fill="#F6F9FA" cx="396" cy="35" r="33.5"></circle>
+            <rect id="Rectangle" fill="#F6F9FA" x="342" y="37" width="120" height="35"></rect>
+            <text id="Leverage-frontline-h" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+                <tspan x="22" y="68">Leverage frontline health workers and volunteers as key community </tspan>
+                <tspan x="22" y="100">engagement actors. As the survey results show humanitarian workers as </tspan>
+                <tspan x="22" y="132">highly trusted by migrants and indigenous populations, governments, </tspan>
+                <tspan x="22" y="164">partners and National Red Cross and Red Crescent Societies should </tspan>
+                <tspan x="22" y="196">accelerate engagement with them and leverage their voice and expertise </tspan>
+                <tspan x="22" y="228">across communication channels. Provide updated, clear, and </tspan>
+                <tspan x="22" y="260">comprehensive information on the pandemic evolution in local languages </tspan>
+                <tspan x="22" y="292">and through culturally appropriate actions.</tspan>
+            </text>
+            <text id="1" font-family="Poppins-Bold, Poppins" font-size="39" font-weight="bold" fill="#668490">
+                <tspan x="389.168" y="44">1</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

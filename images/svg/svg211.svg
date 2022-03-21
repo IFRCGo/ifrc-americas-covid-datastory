@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="156px" viewBox="0 0 1000 156" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg211</title>
+    <g id="svg211" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box" transform="translate(100.000000, 16.000000)">
+            <rect id="Rectangle" stroke="#60080E" stroke-width="3" fill="#FDF9FA" x="1.5" y="34.5" width="797" height="89"></rect>
+            <circle id="Oval" stroke="#60080E" stroke-width="3" fill="#FDF9FA" cx="396" cy="35" r="33.5"></circle>
+            <rect id="Rectangle" fill="#FDF9FA" x="342" y="37" width="120" height="35"></rect>
+            <text id="8" font-family="Poppins-Bold, Poppins" font-size="39" font-weight="bold" fill="#F5333F">
+                <tspan x="383.864" y="44">8</tspan>
+            </text>
+            <text id="Prioritise-pregnant" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+                <tspan x="22" y="70">Prioritise pregnant and lactating women in the overall response to COVID-19 </tspan>
+                <tspan x="22" y="102">as they suffer from higher anxiety due to the pandemic. </tspan>
+            </text>
+        </g>
+    </g>
+</svg>

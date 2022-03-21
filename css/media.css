@@ -1,0 +1,54 @@
+@media only screen and (max-width: 800px) {
+    svg {
+        width: 100%;
+    }
+    
+    object {
+        width: 100%;
+    }
+    
+    #references_body {
+        width: 100%;
+    }
+
+    #references_content {
+        padding: 0px 5%;
+        text-align: left;
+        font-size: 50%;
+        font-weight: 300;
+        color: black;
+    }
+
+    .padding {
+        padding: 1em 0px;
+    }
+
+    .padding-bottom {
+        padding: 0px 0px 1em 0px;
+    }
+
+    .padding-top {
+        padding: 1em 0px 0px 0px;
+    }
+
+    .padding-section {
+        padding: 0px 0px 1.7em 0px;
+    }
+    
+}
+
+@media only screen and (min-width: 850px) {
+    #nav svg {
+        width: 850px
+    }
+    
+}
+
+@media only screen and (min-width: 1000px) {
+
+
+    #nav svg {
+        /* width: 900px */
+    }
+    
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="158px" viewBox="0 0 1000 158" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg80</title>
+    <g id="svg80" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1000" height="158"></rect>
+        <g id="Group-7" transform="translate(0.000000, 38.000000)">
+            <rect id="Rectangle" fill="#EB313C" x="0" y="0" width="1000" height="100"></rect>
+            <text id="RECOMMENDATIONS" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" fill="#FFFFFF">
+                <tspan x="390.524" y="60">RECOMMENDATIONS</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

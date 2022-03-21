@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="1082px" viewBox="0 0 1000 1082" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg31</title>
+    <g id="svg31" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <line x1="355" y1="141.5" x2="555.522779" y2="141.5" id="red_line" stroke="#F5333F" stroke-width="3"></line>
+        <text id="Trust-in-decision-ma" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+            <tspan x="100" y="138">Trust in decision-makers ‘to do the right thing’ was generally low before the </tspan>
+            <tspan x="100" y="170">pandemic and has since decreased further for a third of the surveyed </tspan>
+            <tspan x="100" y="202">population. </tspan>
+        </text>
+        <text id="44%-of-respondents-d" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+            <tspan x="100" y="869">44% of respondents declared their trust level in decision makers has not </tspan>
+            <tspan x="100" y="901">changed since the beginning of the sanitary crisis, but 36% mentioned it has </tspan>
+            <tspan x="100" y="933">decreased. </tspan>
+            <tspan x="100" y="965"></tspan>
+            <tspan x="100" y="997">Respondents in the nine countries report the lowest trust scores were attributed </tspan>
+            <tspan x="100" y="1029">to government leaders and the highest to scientists and humanitarians. </tspan>
+        </text>
+        <text id="Trust-in-decision-ma" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" fill="#222222">
+            <tspan x="100" y="58">Trust in decision-makers</tspan>
+        </text>
+        <text id="Levels-of-trust-in-d" font-family="Poppins-Bold, Poppins" font-size="21" font-weight="bold" fill="#000000">
+            <tspan x="100" y="279">Levels of trust in decision-makers before COVID-19</tspan>
+        </text>
+        <line x1="468" y1="283.5" x2="538.522779" y2="283.5" id="red_line" stroke="#F5333F" stroke-width="3"></line>
+        <line x1="468" y1="553.5" x2="522.522779" y2="553.5" id="red_line" stroke="#F5333F" stroke-width="3"></line>
+        <g id="Group-6" transform="translate(100.000000, 318.000000)">
+            <g id="Group-2" transform="translate(0.000000, 53.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#FBADB2" x="167.906633" y="0" width="272.225466" height="100"></rect>
+                <rect id="Rectangle" fill="#99ADB5" x="439.886805" y="0" width="240.198941" height="100"></rect>
+                <rect id="Rectangle" fill="#F5333F" x="0" y="0" width="168.139259" height="100"></rect>
+                <rect id="Rectangle" fill="#011E41" x="679.90053" y="0" width="64.0530509" height="100"></rect>
+                <rect id="Rectangle" fill="#CCD6DA" x="743.95358" y="0" width="56.0464196" height="100"></rect>
+            </g>
+            <text id="34%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                <tspan x="295.21104" y="109">34%</tspan>
+            </text>
+            <text id="30%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                <tspan x="552.22054" y="108">30%</tspan>
+            </text>
+            <text id="21%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                <tspan x="70.766228" y="109">21%</tspan>
+            </text>
+            <text id="8%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                <tspan x="697.78754" y="108">8%</tspan>
+            </text>
+            <text id="7%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                <tspan x="759.59504" y="108">7%</tspan>
+            </text>
+            <rect id="Rectangle" fill="#F5333F" x="61.2533263" y="1.76" width="21.1293169" height="21.12"></rect>
+            <text id="No-trust" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                <tspan x="91.1865252" y="20">No trust</tspan>
+            </text>
+            <rect id="Rectangle" fill="#99A5B3" x="304.292147" y="1.76" width="21.1293169" height="21.12"></rect>
+            <text id="Moderate" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                <tspan x="334.225345" y="20">Moderate</tspan>
+            </text>
+            <rect id="Rectangle" fill="#FBADB2" x="194.24047" y="1.76" width="21.1293169" height="21.12"></rect>
+            <text id="Low" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                <tspan x="226.173669" y="20">Low</tspan>
+            </text>
+            <rect id="Rectangle" fill="#011E41" x="457.973266" y="1.76" width="21.1293169" height="21.12"></rect>
+            <text id="Very-high" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                <tspan x="487.906465" y="20">Very high</tspan>
+            </text>
+            <rect id="Rectangle" fill="#CCD6DA" x="599.973266" y="1.76" width="21.1293169" height="21.12"></rect>
+            <text id="No-answer" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                <tspan x="629.906465" y="20">No answer</tspan>
+            </text>
+        </g>
+        <g id="Group-7" transform="translate(100.000000, 588.000000)">
+            <g id="Group" transform="translate(0.000000, 57.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#99ADB5" x="290.917692" y="0" width="355.853262" height="100"></rect>
+                <rect id="Rectangle" fill="#011E41" x="646.52318" y="0" width="88.9633156" height="100"></rect>
+                <rect id="Rectangle" fill="#F5333F" x="0" y="0" width="291.152669" height="100"></rect>
+                <rect id="Rectangle" fill="#CCD6DA" x="735.299407" y="0" width="64.7005932" height="100"></rect>
+            </g>
+            <text id="44%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                <tspan x="461.83104" y="113">44%</tspan>
+            </text>
+            <text id="36%" fill-rule="nonzero" font-family="Poppins-Bold, Poppins" font-size="19" font-weight="bold" fill="#FFFFFF">
+                <tspan x="135.415228" y="114">36%</tspan>
+            </text>
+            <text id="11%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                <tspan x="680.70204" y="113">11%</tspan>
+            </text>
+            <text id="8%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                <tspan x="758.78754" y="113">8%</tspan>
+            </text>
+            <g id="Group-5" transform="translate(98.253326, 0.000000)">
+                <rect id="Rectangle" fill="#F5333F" x="0" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Decreased" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="29.9331989" y="20">Decreased</tspan>
+                </text>
+                <rect id="Rectangle" fill="#99A5B3" x="161.03882" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="No-change" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="190.972019" y="20">No change</tspan>
+                </text>
+                <rect id="Rectangle" fill="#011E41" x="324.71994" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Increased" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="354.653138" y="20">Increased</tspan>
+                </text>
+                <rect id="Rectangle" fill="#CCD6DA" x="468.71994" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="No-answer" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="498.653138" y="20">No answer</tspan>
+                </text>
+            </g>
+            <text id="Decreased" font-family="Poppins-Bold, Poppins" font-size="19" font-weight="bold" fill="#000000">
+                <tspan x="101.275326" y="190">Decreased</tspan>
+            </text>
+            <text id="Increased" font-family="Poppins-Bold, Poppins" font-size="19" font-weight="bold" fill="#000000">
+                <tspan x="643.328326" y="190">Increased</tspan>
+            </text>
+            <line x1="151.454695" y1="170" x2="151.454695" y2="157" id="Path" stroke="#979797"></line>
+            <line x1="690.454695" y1="170" x2="690.454695" y2="157" id="Path" stroke="#979797"></line>
+            <text id="Trust-in-decision-ma" font-family="Poppins-Regular, Poppins" font-size="13.773392" font-weight="normal" fill="#000000">
+                <tspan x="100.253326" y="210">Trust in decision-makers</tspan>
+            </text>
+            <text id="Trust-in-decision-ma" font-family="Poppins-Regular, Poppins" font-size="13.773392" font-weight="normal" fill="#000000">
+                <tspan x="643.253326" y="210">Trust in decision-makers</tspan>
+            </text>
+            <polygon id="Path-2" fill="#F5333F" points="210.817985 179.5 218.502255 189.418494 226.186525 179.5"></polygon>
+            <polygon id="Path-2" fill="#011E41" transform="translate(753.937596, 183.959247) scale(1, -1) translate(-753.937596, -183.959247) " points="746.253326 179 753.937596 188.918494 761.621866 179"></polygon>
+        </g>
+        <text id="Levels-of-trust-in-d" font-family="Poppins-Bold, Poppins" font-size="21" font-weight="bold" fill="#000000">
+            <tspan x="100" y="549">Levels of trust in decision-makers after COVID-19</tspan>
+        </text>
+    </g>
+</svg>

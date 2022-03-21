@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="253px" viewBox="0 0 1000 253" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg202</title>
+    <g id="svg202" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box" transform="translate(100.000000, 16.000000)">
+            <rect id="Rectangle" stroke="#011E41" stroke-width="3" fill="#F6F9FA" x="1.5" y="34.5" width="797" height="188"></rect>
+            <circle id="Oval" stroke="#011E41" stroke-width="3" fill="#F6F9FA" cx="396" cy="35" r="33.5"></circle>
+            <rect id="Rectangle" fill="#F6F9FA" x="342" y="37" width="120" height="35"></rect>
+            <text id="Address-information" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+                <tspan x="22" y="68">Address information gaps. There is a need to increase information on risks </tspan>
+                <tspan x="22" y="100">and response to mental health; the importance of testing; vaccination (sites </tspan>
+                <tspan x="22" y="132">location, side-effects, safety, and registration processes.). Use reassuring </tspan>
+                <tspan x="22" y="164">and understandable messages in local and native languages and the most </tspan>
+                <tspan x="22" y="196">trusted actors to engage with communities.</tspan>
+            </text>
+            <text id="2" font-family="Poppins-Bold, Poppins" font-size="39" font-weight="bold" fill="#668490">
+                <tspan x="385.3655" y="45">2</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

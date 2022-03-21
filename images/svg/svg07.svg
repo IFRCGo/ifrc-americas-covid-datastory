@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="731px" viewBox="0 0 1000 731" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg07</title>
+    <g id="svg07" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1000" height="731"></rect>
+        <g id="Group" transform="translate(100.000000, 236.000000)">
+            <line x1="24.2915493" y1="74.5" x2="800" y2="74.5" id="Path-2" stroke="#F1F1F1" stroke-dasharray="3,3"></line>
+            <line x1="21" y1="19.5" x2="796.708451" y2="19.5" id="Path-2" stroke="#F1F1F1" stroke-dasharray="3,3"></line>
+            <line x1="21" y1="130.5" x2="796.708451" y2="130.5" id="Path-2" stroke="#F1F1F1" stroke-dasharray="3,3"></line>
+            <line x1="21" y1="240.5" x2="796.708451" y2="240.5" id="Path-2" stroke="#F1F1F1" stroke-dasharray="3,3"></line>
+            <line x1="21" y1="184.5" x2="796.708451" y2="184.5" id="Path-2" stroke="#F1F1F1" stroke-dasharray="3,3"></line>
+            <line x1="21" y1="296.5" x2="796.708451" y2="296.5" id="Path-2" stroke="#F1F1F1" stroke-dasharray="3,3"></line>
+            <line x1="21" y1="406.5" x2="796.708451" y2="406.5" id="Path-2" stroke="#F1F1F1" stroke-dasharray="3,3"></line>
+            <line x1="21" y1="350.5" x2="796.708451" y2="350.5" id="Path-2" stroke="#F1F1F1" stroke-dasharray="3,3"></line>
+            <line x1="21" y1="460.5" x2="796.708451" y2="460.5" id="Path-2" stroke="#F1F1F1" stroke-dasharray="3,3"></line>
+            <g id="pyramid_bars">
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.53" fill="#F5333F" x="397.265" y="19.265" width="4.47" height="54.47"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="800" height="13"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.53" fill="#668490" x="400.265" y="19.265" width="4.47" height="54.47"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.53" fill="#F5333F" x="381.265" y="405.265" width="20.47" height="51.47"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.53" fill="#668490" x="400.265" y="405.265" width="12.47" height="51.47"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.53" fill="#F5333F" x="381.265" y="76.265" width="20.47" height="51.47"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.53" fill="#668490" x="400.265" y="76.265" width="19.47" height="51.47"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.53" fill="#F5333F" x="315.265" y="130.265" width="86.47" height="51.47"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.53" fill="#668490" x="400.265" y="130.265" width="53.47" height="51.47"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.53" fill="#F5333F" x="254.265" y="185.265" width="147.47" height="51.47"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.53" fill="#668490" x="400.265" y="185.265" width="93.47" height="51.47"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.53" fill="#F5333F" x="153.265" y="240.265" width="248.47" height="51.47"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.53" fill="#668490" x="400.265" y="240.265" width="156.47" height="51.47"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.53" fill="#F5333F" x="46.265" y="295.265" width="355.47" height="51.47"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.53" fill="#668490" x="400.265" y="295.265" width="201.47" height="51.47"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.53" fill="#F5333F" x="0.265" y="350.265" width="401.47" height="51.47"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.53" fill="#668490" x="400.265" y="350.265" width="228.47" height="51.47"></rect>
+            </g>
+            <g id="pyramid_labels" transform="translate(10.000000, 33.000000)" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal">
+                <text id="0%" fill="#000000">
+                    <tspan x="402" y="20">0%</tspan>
+                </text>
+                <text id="1%" fill="#000000">
+                    <tspan x="345" y="76">1%</tspan>
+                </text>
+                <text id="1%" fill="#000000">
+                    <tspan x="416" y="76">1%</tspan>
+                </text>
+                <text id="1%" fill="#000000">
+                    <tspan x="346" y="406">1%</tspan>
+                </text>
+                <text id="1%" fill="#000000">
+                    <tspan x="411" y="406">1%</tspan>
+                </text>
+                <text id="3%" fill="#FFFFFF">
+                    <tspan x="412" y="131">3%</tspan>
+                </text>
+                <text id="4%" fill="#FFFFFF">
+                    <tspan x="314" y="130">4%</tspan>
+                </text>
+                <text id="5%" fill="#FFFFFF" fill-rule="nonzero">
+                    <tspan x="452" y="185">5%</tspan>
+                </text>
+                <text id="7%" fill="#FFFFFF" fill-rule="nonzero">
+                    <tspan x="254" y="185">7%</tspan>
+                </text>
+                <text id="12%" fill="#FFFFFF">
+                    <tspan x="508" y="240">12%</tspan>
+                </text>
+                <text id="8%" fill="#FFFFFF">
+                    <tspan x="153" y="240">8%</tspan>
+                </text>
+                <text id="10%" fill="#FFFFFF" fill-rule="nonzero">
+                    <tspan x="553" y="296">10%</tspan>
+                </text>
+                <text id="17%" fill="#FFFFFF" fill-rule="nonzero">
+                    <tspan x="47" y="295">17%</tspan>
+                </text>
+                <text id="11%" fill="#FFFFFF" fill-rule="nonzero">
+                    <tspan x="586" y="350">11%</tspan>
+                </text>
+                <text id="19%" fill="#FFFFFF" fill-rule="nonzero">
+                    <tspan x="0" y="350">19%</tspan>
+                </text>
+                <text id="0%" fill="#000000">
+                    <tspan x="355" y="20">0%</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(742.000000, 39.000000)" fill="#000000" font-family="Poppins-Bold, Poppins" font-size="13" font-weight="bold">
+                <text id="70-79">
+                    <tspan x="19.079" y="67">70-79</tspan>
+                </text>
+                <text id="60-69">
+                    <tspan x="16.427" y="124">60-69</tspan>
+                </text>
+                <text id="50-59">
+                    <tspan x="16.089" y="178">50-59</tspan>
+                </text>
+                <text id="40-49">
+                    <tspan x="15.387" y="234">40-49</tspan>
+                </text>
+                <text id="30-39">
+                    <tspan x="17.259" y="289">30-39</tspan>
+                </text>
+                <text id="18-29">
+                    <tspan x="20.73" y="344">18-29</tspan>
+                </text>
+                <text id="16-17">
+                    <tspan x="24.448" y="398">16-17</tspan>
+                </text>
+                <text id="OVER-80">
+                    <tspan x="2.127" y="14">OVER 80</tspan>
+                </text>
+            </g>
+            <line x1="400" y1="16" x2="400" y2="462" id="Path" stroke="#FFFFFF"></line>
+        </g>
+        <text id="POPULATION-PYRAMID" font-family="Poppins-Bold, Poppins" font-size="20" font-weight="bold" fill="#000000">
+            <tspan x="100" y="170">POPULATION PYRAMID</tspan>
+        </text>
+        <g id="Group-4" transform="translate(385.000000, 205.000000)">
+            <rect id="Rectangle" fill="#F5333F" x="0" y="1.76" width="21.1293169" height="21.12"></rect>
+            <text id="Female" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                <tspan x="29.9331989" y="20">Female</tspan>
+            </text>
+            <rect id="Rectangle" fill="#668490" x="137.71994" y="1.76" width="21.1293169" height="21.12"></rect>
+            <text id="Male" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                <tspan x="167.653138" y="20">Male</tspan>
+            </text>
+        </g>
+        <text id="Most-interviewees-we" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+            <tspan x="100" y="58">Most interviewees were between 18 and 29 years old (30%), 30 and 39 (27%), 40 </tspan>
+            <tspan x="100" y="90">and 49 (20%), 50 and 59 (12%).</tspan>
+        </text>
+    </g>
+</svg>

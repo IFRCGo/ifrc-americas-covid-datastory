@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="41px" viewBox="0 0 1000 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sticky2</title>
+    <g id="sticky2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="subnav" transform="translate(-590.000000, -1.100000)">
+            <rect id="Rectangle" fill="#F8F8F8" x="0" y="0" width="2349" height="35"></rect>
+            <rect id="link_bg_vaccines" fill="#EB313C" x="690" y="1.1" width="199.209486" height="33"></rect>
+            <text id="link_text_vaccines" font-family="Poppins-Bold, Poppins" font-size="12" font-weight="bold" fill="#FFFFFF">
+                <tspan x="748.010656" y="21.9108108">VACCINATIONS</tspan>
+            </text>
+            <rect id="link_bg_trust" fill="#E1E1E1" x="890.263505" y="1.1" width="199.209486" height="33"></rect>
+            <text id="link_text_trust" font-family="Poppins-Bold, Poppins" font-size="12" font-weight="bold" fill="#484848">
+                <tspan x="970.944248" y="21.9108108">TRUST</tspan>
+            </text>
+            <rect id="link_bg_accesstoinformation" fill="#E1E1E1" x="1090.52701" y="1.1" width="199.209486" height="33"></rect>
+            <text id="link_text_accesstoinformation" font-family="Poppins-Bold, Poppins" font-size="12" font-weight="bold" fill="#484848">
+                <tspan x="1112.46775" y="21.9108108">ACCESS TO INFORMATION</tspan>
+            </text>
+            <rect id="link_bg_socioeconomicimpacts" fill="#E1E1E1" x="1290.79051" y="1.1" width="199.209486" height="33"></rect>
+            <text id="link_text_socioeconomicimpacts" font-family="Poppins-Bold, Poppins" font-size="12" font-weight="bold" fill="#484848">
+                <tspan x="1305.31526" y="21.9108108">SOCIO-ECONOMIC IMPACTS</tspan>
+            </text>
+        </g>
+        <rect id="link_vaccines" fill-opacity="0" fill="#285DE8" opacity="0.435409546" x="101" y="0" width="198" height="33"></rect>
+        <rect id="link_trust" fill-opacity="0" fill="#285DE8" opacity="0.435409546" x="300" y="0" width="198" height="33"></rect>
+        <rect id="link_accesstoinformation" fill-opacity="0" fill="#285DE8" opacity="0.435409546" x="500" y="0" width="198" height="33"></rect>
+        <rect id="link_socioeconomicimpacts" fill-opacity="0" fill="#285DE8" opacity="0.435409546" x="700" y="0" width="198" height="33"></rect>
+    </g>
+</svg>

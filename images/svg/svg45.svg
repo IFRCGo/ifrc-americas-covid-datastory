@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="417px" viewBox="0 0 1000 417" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg45</title>
+    <g id="svg45" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Indigenous-populatio" font-family="Poppins-Bold, Poppins" font-size="20" font-weight="bold" line-spacing="32" fill="#000000">
+            <tspan x="100" y="47">Indigenous population</tspan>
+            <tspan x="100" y="79" font-family="Poppins-Regular, Poppins" font-weight="normal"></tspan>
+            <tspan x="100" y="111" font-family="Poppins-Regular, Poppins" font-weight="normal">Indigenous respondents expressed particularly severe socio-economic impacts </tspan>
+            <tspan x="100" y="143" font-family="Poppins-Regular, Poppins" font-weight="normal">with 86% of them suffering from reduced income, 61% from a loss of income, 53% </tspan>
+            <tspan x="100" y="175" font-family="Poppins-Regular, Poppins" font-weight="normal">from increased living costs and 23% from the inability to get basic healthcare.</tspan>
+        </text>
+        <g id="Group-3" transform="translate(104.825427, 233.000000)" fill-rule="nonzero">
+            <text id="Reduced-Income" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                <tspan x="111.719573" y="18.6373344">Reduced Income</tspan>
+            </text>
+            <text id="Loss-Of-Income" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                <tspan x="125.954572" y="51.610662">Loss Of Income</tspan>
+            </text>
+            <text id="Increased-Living-Costs" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                <tspan x="72.1495721" y="84.5839896">Increased Living Costs</tspan>
+            </text>
+            <text id="Inability-To-Get-Basic-Healthcare" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                <tspan x="0" y="118.176897">Inability To Get Basic Healthcare</tspan>
+            </text>
+            <rect id="Rectangle" fill="#668490" x="251.32557" y="0" width="543" height="25.9200761"></rect>
+            <rect id="Rectangle" fill="#668490" x="251.32557" y="33.0114177" width="385.151163" height="25.9200761"></rect>
+            <rect id="Rectangle" fill="#668490" x="251.32557" y="66.0228354" width="334.639535" height="25.9200761"></rect>
+            <rect id="Rectangle" fill="#668490" x="251.32557" y="99.0342531" width="145.22093" height="25.9200761"></rect>
+            <text id="86%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="761.447093" y="16.6458822">86%</tspan>
+            </text>
+            <text id="61%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="606.815562" y="49.6572999">61%</tspan>
+            </text>
+            <text id="53%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="554.150185" y="83.6687176">53%</tspan>
+            </text>
+            <text id="23%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="366.077863" y="116.680135">23%</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
