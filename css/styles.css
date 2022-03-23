@@ -132,6 +132,8 @@ tspan, text {
 #download_ns4, 
 #download_ns5, 
 #download_ns6, 
+#download_ns7, 
+#download_ns10, 
 #download_summary, 
 #download_full {
     cursor: pointer;
@@ -143,6 +145,8 @@ tspan, text {
 #download_ns4:hover, 
 #download_ns5:hover, 
 #download_ns6:hover, 
+#download_ns7:hover, 
+#download_ns10:hover, 
 #download_summary:hover, 
 #download_full:hover {
     opacity: 0.86;

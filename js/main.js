@@ -959,6 +959,10 @@ window.addEventListener("load", function () {
                 $('#download_ns7').click(function(){
                     window.open('https://communityengagementhub.org/resource/covid-19-perception-survey-charles-town-maroons-portland/', '_blank').focus();
                 })
+
+                $('#download_ns10').click(function(){
+                    window.open('https://communityengagementhub.org/es/resource/medidas-de-prevencion-y-vacuna-contra-la-covid-19-estudio-de-percepcion-de-nicaragua/', '_blank').focus();
+                })
                 
                 // AFTER LOAD HANDLE SCROLL
                 
