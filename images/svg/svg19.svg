@@ -5,8 +5,8 @@
         <rect fill="#FFFFFF" x="0" y="0" width="1000" height="1020"></rect>
         <g id="Group-2" transform="translate(86.000000, 39.000000)">
             <g id="map_title">
-                <line x1="379.415159" y1="34" x2="529.864073" y2="34" id="red_line" stroke="#F5333F" stroke-width="4"></line>
                 <rect id="Rectangle" fill="#FCFCFC" x="0" y="0" width="815" height="71"></rect>
+                <line x1="379.415159" y1="34" x2="529.864073" y2="34" id="red_line" stroke="#F5333F" stroke-width="4"></line>
                 <text id="Respondents-reportin" font-family="Poppins-Bold, Poppins" font-size="21" font-weight="bold" fill="#000000">
                     <tspan x="79" y="30">Respondents reporting it is ‘not at all easy’ to access the COVID-19 </tspan>
                     <tspan x="79" y="59">vaccine, by country</tspan>
