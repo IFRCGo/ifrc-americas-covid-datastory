@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="292px" viewBox="0 0 1000 292" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg214</title>
+    <g id="svg214" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box" transform="translate(100.000000, 16.000000)">
+            <rect id="Rectangle" stroke="#60080E" stroke-width="3" fill="#FDF9FA" x="1.5" y="34.5" width="797" height="221"></rect>
+            <circle id="Oval" stroke="#60080E" stroke-width="3" fill="#FDF9FA" cx="396" cy="35" r="33.5"></circle>
+            <rect id="Rectangle" fill="#FDF9FA" x="342" y="37" width="120" height="35"></rect>
+            <text id="11" font-family="Poppins-Bold, Poppins" font-size="39" font-weight="bold" fill="#F5333F">
+                <tspan x="381.836" y="46">11</tspan>
+            </text>
+            <text id="Crear-asociaciones-l" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+                <tspan x="22" y="69">Crear asociaciones locales para apoyar la recuperación económica de las </tspan>
+                <tspan x="22" y="101">poblaciones, con una perspectiva de desarrollo. Diseñar la reconstrucción </tspan>
+                <tspan x="22" y="133">de los medios de vida de forma que las personas se recuperen </tspan>
+                <tspan x="22" y="165">económicamente. Una buena opción es desarrollar asociaciones locales </tspan>
+                <tspan x="22" y="197">con las ONG, el sector privado y los gobiernos para abordar la recuperación </tspan>
+                <tspan x="22" y="229">económica con una visión de desarrollo. </tspan>
+            </text>
+        </g>
+    </g>
+</svg>

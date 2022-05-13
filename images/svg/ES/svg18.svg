@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="906px" viewBox="0 0 1000 906" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg18</title>
+    <g id="svg18" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1000" height="906"></rect>
+        <path d="M540.714895,532.905568 C468.745005,487.083878 440.33114,395.980758 473.480842,317.333632 L634.568271,385.314732 L540.714895,532.905568 Z" id="Path" stroke="#FFFFFF" stroke-width="1.03" fill="#668490" fill-rule="nonzero" stroke-dasharray="0,420.4903018188477,174.9681538391113" transform="translate(547.143857, 425.119600) rotate(-93.000000) translate(-547.143857, -425.119600) "></path>
+        <path d="M339.171808,444.364335 C365.848739,381.073751 427.074108,339.261965 495.698201,337.469953 L500.259236,512.345435 L339.171808,444.364335 Z" id="Path" stroke="#FFFFFF" stroke-width="1.03" fill="#CCD6D9" fill-rule="nonzero" stroke-dasharray="0,375.4092562866211,174.9681538391113" transform="translate(419.715522, 424.907694) rotate(-93.000000) translate(-419.715522, -424.907694) "></path>
+        <g id="Group-2" transform="translate(430.405621, 283.408670) rotate(146.400000) translate(-430.405621, -283.408670) translate(307.328674, 195.940814)" fill="#F5333F" fill-rule="nonzero" stroke="#FFFFFF" stroke-dasharray="0,459.1513555908203,174.9681538391113" stroke-width="1.03">
+            <path d="M246.153894,85.8982127 C222.590744,127.727492 182.880338,158.026507 136.331042,169.692982 C89.7817466,181.359457 40.48635,173.36763 0,147.590836 L93.8533761,0 L246.153894,85.8982127 Z" id="Path"></path>
+        </g>
+        <g id="question" transform="translate(100.000000, 43.196970)">
+            <text id="question-title" font-family="Poppins-Bold, Poppins" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="50" y="27.8030303">¿QUÉ TAN  FÁCIL LE FUE OBTENER SETRVICIOS DE VACUNACIÓN PARA </tspan>
+                <tspan x="50" y="55.8030303">USTED?</tspan>
+            </text>
+            <g id="question-icon">
+                <path d="M1.38600004,2.22727273 L21,2.22727273 C29.2842712,2.22727273 36,8.94300148 36,17.2272727 L36,24.55703 C36,32.9771635 29.1741332,39.8030303 20.7539997,39.8030303 L1.38600004,39.8030303 C0.620533353,39.8030303 3.15787237e-16,39.1824969 0,38.4170303 L0,3.61327276 C-9.37426324e-17,2.84780608 0.620533353,2.22727273 1.38600004,2.22727273 Z" id="Rectangle" fill="#3B3B3B"></path>
+                <text id="Q" font-family="Poppins-Bold, Poppins" font-size="27.72" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="6" y="29">Q</tspan>
+                </text>
+            </g>
+        </g>
+        <text id="61%" font-family="Poppins-Bold, Poppins" font-size="59" font-weight="bold" fill="#000000">
+            <tspan x="454" y="419">61%</tspan>
+        </text>
+        <text id="A-nivel-regional,-un" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+            <tspan x="100" y="625">A nivel regional, un gran número de entrevistados considera fácil acceder al </tspan>
+            <tspan x="100" y="657">servicio de vacunas (73 %), entre ellos un 33 % considera que acceder al </tspan>
+            <tspan x="100" y="689">servicio es muy fácil y un 19 % moderadamente fácil. Sin embargo, hay que </tspan>
+            <tspan x="100" y="721">tener en cuenta las discrepancias entre los entrevistados.  Por ejemplo, los </tspan>
+            <tspan x="100" y="753">participantes indígenas declaran tener más problemas que el resto de </tspan>
+            <tspan x="100" y="785">participantes con la distancia y los horarios de apertura. En Colombia, por </tspan>
+            <tspan x="100" y="817">ejemplo, algunos encuestados fueron hasta los centros de vacunación para </tspan>
+            <tspan x="100" y="849">que les mandasen a casa sin la vacuna. </tspan>
+        </text>
+        <g id="Group" transform="translate(209.732524, 130.000000)">
+            <g transform="translate(190.517647, 34.831124)">
+                <g id="pies" transform="translate(98.245357, 0.000000)" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="1.03">
+                    <path d="M4.56103548,0 C66.6987623,0 124.167081,33.0019229 155.513417,86.6863506 C186.859752,140.370778 187.372995,206.66936 156.861554,260.833237 L4.56103548,174.935024 L4.56103548,0 Z" id="Path" fill="#011E41" stroke-dasharray="0,539.6128759765625,174.9681538391113"></path>
+                    <path d="M0,0.0595420549 C1.5200217,0.0198490406 3.04049624,0 4.56103548,0 L4.56103548,174.935024 L0,0.0595420549 Z" id="Path" fill="#CCD6D9" stroke-dasharray="0,179.5331208801269,174.9681538391113"></path>
+                </g>
+                <ellipse id="Oval" fill="#FFFFFF" cx="102.917764" cy="175.066942" rx="102.917764" ry="102.980554"></ellipse>
+            </g>
+            <g id="labels" fill="#000000" fill-rule="nonzero">
+                <g id="Group" transform="translate(117.222378, 12.980993)" fill-opacity="0" stroke="#605E5C" stroke-width="1.03">
+                    <polyline id="Path" points="330.827853 106.330265 345.923091 97.5053975 358.273223 97.5053975"></polyline>
+                    <polyline id="Path" points="246.042858 364.677351 251.889036 379.68976 264.239168 379.68976"></polyline>
+                    <polyline id="Path" points="27.2609747 306.652721 12.3501316 315.413862 0 315.413862"></polyline>
+                    <polyline id="Path" points="47.0833843 67.6826429 37.2279426 57.6826429 24.8778109 57.6826429"></polyline>
+                    <polyline id="Path" points="173.763932 17.4920138 173.535861 0 161.18573 0"></polyline>
+                </g>
+                <text id="Muy-fácil-33%" font-family="Poppins-Bold, Poppins" font-size="15" font-weight="bold">
+                    <tspan x="481.641489" y="115.535203">Muy fácil  </tspan>
+                    <tspan x="481.641489" y="136.535203" font-family="Poppins-Regular, Poppins" font-weight="normal">33%</tspan>
+                </text>
+                <text id="Nada-en-absoluto-26%" font-family="Poppins-Bold, Poppins" font-size="15" font-weight="bold">
+                    <tspan x="0" y="75.808982">Nada en absoluto </tspan>
+                    <tspan x="0" y="96.808982" font-family="Poppins-Regular, Poppins" font-weight="normal">26%</tspan>
+                </text>
+                <text id="Moderado-22%" font-family="Poppins-Bold, Poppins" font-size="15" font-weight="bold">
+                    <tspan x="389.267476" y="399.443668">Moderado</tspan>
+                    <tspan x="468.362476" y="399.443668" font-family="Poppins-Regular, Poppins" font-weight="normal"> </tspan>
+                    <tspan x="389.267476" y="420.443668" font-family="Poppins-Regular, Poppins" font-weight="normal">22%</tspan>
+                </text>
+                <text id="Un-poco-18%" font-family="Poppins-Bold, Poppins" font-size="15" font-weight="bold">
+                    <tspan x="50.8747277" y="331.233617">Un poco </tspan>
+                    <tspan x="50.8747277" y="352.233617" font-family="Poppins-Regular, Poppins" font-weight="normal">18%</tspan>
+                </text>
+                <text id="No-contesta-0.4%" font-family="Poppins-Bold, Poppins" font-size="15" font-weight="bold">
+                    <tspan x="177.079193" y="16">No contesta</tspan>
+                    <tspan x="269.809193" y="16" font-family="Poppins-Regular, Poppins" font-weight="normal"> </tspan>
+                    <tspan x="177.079193" y="37" font-family="Poppins-Regular, Poppins" font-weight="normal">0.4%</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

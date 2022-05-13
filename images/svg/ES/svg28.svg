@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="765px" viewBox="0 0 1000 765" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg28</title>
+    <g id="svg28" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10" transform="translate(100.000000, 226.000000)">
+            <g id="legend" transform="translate(90.000000, 0.000000)">
+                <rect id="Rectangle" fill="#F5333F" x="0" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Nada-en-absoluto" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="29.9331989" y="20">Nada en absoluto </tspan>
+                </text>
+                <rect id="Rectangle" fill="#99A5B3" x="334.03882" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Moderado" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="363.972019" y="20">Moderado</tspan>
+                </text>
+                <rect id="Rectangle" fill="#FBADB2" x="210.987144" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Un-poco" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="242.920343" y="20">Un poco</tspan>
+                </text>
+                <rect id="Rectangle" fill="#011E41" x="483.71994" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Very-much" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="513.653138" y="20">Very much</tspan>
+                </text>
+            </g>
+            <text id="El-35-%-de-la-poblac" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+                <tspan x="0" y="254">El 35 % de la población encuestada afirmó confiar de forma moderada en los </tspan>
+                <tspan x="0" y="286">profesionales sanitarios a cargo de la vacuna del COVID-19, el 29 % confiaba </tspan>
+                <tspan x="0" y="318">muchísimo; pero el 24 % confiaba poco y el 12 %, nada.   </tspan>
+                <tspan x="0" y="350"></tspan>
+                <tspan x="0" y="382">Los resultados varían significativamente entre países. Los encuestados en Brasil </tspan>
+                <tspan x="0" y="414">confían mucho en los profesionales sanitarios que administran la vacuna del </tspan>
+                <tspan x="0" y="446">COVID-19 (69 %). Sin embargo, en Bolivia esta cifra es del 12 %; en Jamaica, del </tspan>
+                <tspan x="0" y="478">15 % y el Guatemala, del 19 %.  </tspan>
+            </text>
+        </g>
+        <g id="Group-13" transform="translate(99.746674, 298.851852)" fill-rule="nonzero">
+            <g id="Group-12">
+                <rect id="Rectangle" fill="#FBADB2" x="94.7094591" y="0" width="194.693636" height="100"></rect>
+                <rect id="Rectangle" fill="#99ADB5" x="289.403095" y="0" width="281.39973" height="100"></rect>
+                <rect id="Rectangle" fill="#F5333F" x="0" y="0" width="94.8183291" height="100"></rect>
+                <rect id="Rectangle" fill="#011E41" x="571.171766" y="0" width="228.828234" height="100"></rect>
+                <text id="24%" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="175.34404" y="57">24%</tspan>
+                </text>
+                <text id="35%" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="413.22054" y="57">35%</tspan>
+                </text>
+                <text id="12%" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="32.766228" y="57">12%</tspan>
+                </text>
+                <text id="29%" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="670.33454" y="57">29%</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="question" transform="translate(100.000000, 124.000000)">
+            <text id="question-title" font-family="Poppins-Bold, Poppins" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="50" y="21">¿CUÁNTO CONFÍAS EN LOS PROFESIONALES SANITARIOS QUE ADMINISTRAN </tspan>
+                <tspan x="50" y="49">LA VACUNA DEL COVID-19?</tspan>
+            </text>
+            <g id="question-icon" transform="translate(0.000000, 5.196970)">
+                <path d="M1.38600004,2.22727273 L21,2.22727273 C29.2842712,2.22727273 36,8.94300148 36,17.2272727 L36,24.55703 C36,32.9771635 29.1741332,39.8030303 20.7539997,39.8030303 L1.38600004,39.8030303 C0.620533353,39.8030303 3.15787237e-16,39.1824969 0,38.4170303 L0,3.61327276 C-9.37426324e-17,2.84780608 0.620533353,2.22727273 1.38600004,2.22727273 Z" id="Rectangle" fill="#3B3B3B"></path>
+                <text id="Q" font-family="Poppins-Bold, Poppins" font-size="27.72" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="6" y="29">Q</tspan>
+                </text>
+            </g>
+        </g>
+        <text id="Confianza-en-los-pro" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" fill="#222222">
+            <tspan x="100" y="67">Confianza en los profesionales sanitarios</tspan>
+        </text>
+    </g>
+</svg>

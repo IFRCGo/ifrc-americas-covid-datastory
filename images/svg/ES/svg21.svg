@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="848px" viewBox="0 0 1000 848" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg21</title>
+    <g id="svg21" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Los-obstáculos-princ" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+            <tspan x="100" y="151">Los obstáculos principales para acceder a la vacuna son: distancia (28 %); </tspan>
+            <tspan x="100" y="183">largas colas de espera (27 %); horarios de apertura inoportunos (18 %) y </tspan>
+            <tspan x="100" y="215">servicios inadecuados (personas mandadas a casa sin la vacuna) (16 %). Por </tspan>
+            <tspan x="100" y="247">ejemplo, en Guatemala, la Cruz Roja resalta como, históricamente, siempre ha </tspan>
+            <tspan x="100" y="279">sido difícil que las poblaciones indígenas y los migrantes accedan al servicio </tspan>
+            <tspan x="100" y="311">sanitario, lo que podría justificar algunos de los obstáculos. Además, el estudio </tspan>
+            <tspan x="100" y="343">demuestra que la mitad de los migrantes, refugiados y solicitantes de asilo </tspan>
+            <tspan x="100" y="375">entrevistados, sobre todo los más jóvenes, afirma que los centros de </tspan>
+            <tspan x="100" y="407">vacunación están demasiado lejos. </tspan>
+        </text>
+        <text id="Costo" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="316.601152" y="621">Costo</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="368.590721" y="607.076923" width="120.839964" height="24"></rect>
+        <text id="7%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="468.629833" y="623">7%</tspan>
+        </text>
+        <text id="No-cumple-los-criter" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="94.0611523" y="800">No cumple los criterios de prioridad</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="368.590721" y="786" width="4.11020284" height="24"></rect>
+        <text id="0.2%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="377.514592" y="802">0.2%</tspan>
+        </text>
+        <text id="No-sabe-donde-ir" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="233.036152" y="770">No sabe donde ir</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="368.590721" y="756.307692" width="13.9746897" height="24"></rect>
+        <text id="0.8%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="387.522235" y="772">0.8%</tspan>
+        </text>
+        <text id="Ineficaz" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="303.386151" y="652">Ineficaz</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="368.590721" y="636.923077" width="98.6448682" height="24"></rect>
+        <text id="5%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="447.961494" y="654">5%</tspan>
+        </text>
+        <text id="Falta-información" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="228.671152" y="740">Falta información</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="368.590721" y="726.461538" width="36.9918256" height="24"></rect>
+        <text id="2%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="385.685415" y="742">2%</tspan>
+        </text>
+        <text id="Largas-esperas" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="246.206151" y="502">Largas esperas</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="368.590721" y="487.692308" width="489.936179" height="24"></rect>
+        <text id="27%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="831.824836" y="504">27%</tspan>
+        </text>
+        <text id="Horarios-de-apertura" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="204.821152" y="533">Horarios de apertura</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="368.590721" y="517.538462" width="337.858673" height="24"></rect>
+        <text id="18%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="681.461935" y="534">18%</tspan>
+        </text>
+        <text id="Otros" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="320.396152" y="591">Otros</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="368.590721" y="577.230769" width="229.349318" height="24"></rect>
+        <text id="13%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="573.383133" y="593">13%</tspan>
+        </text>
+        <text id="Seguridad-persona-en" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="124.346152" y="682">Seguridad persona en el centro</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="368.590721" y="666.769231" width="98.6448682" height="24"></rect>
+        <text id="5%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="447.130118" y="684">5%</tspan>
+        </text>
+        <text id="Limitación-física" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="240.371152" y="711">Limitación física</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="368.590721" y="696.615385" width="86.3142596" height="24"></rect>
+        <text id="4.7%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="426.596879" y="713">4.7%</tspan>
+        </text>
+        <text id="El-centro-está-demas" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="131.306152" y="473">El centro está demasiado lejos</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="368.590721" y="457.846154" width="518.707598" height="24"></rect>
+        <text id="28%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="860.033576" y="474">28%</tspan>
+        </text>
+        <text id="Vuelven-a-casa-sin-l" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#333333">
+            <tspan x="141.296151" y="562">Vuelven a casa sin la vacuna</tspan>
+        </text>
+        <rect id="Rectangle" fill="#668490" fill-rule="nonzero" x="368.590721" y="547.384615" width="300.866848" height="24"></rect>
+        <text id="16%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="644.93944" y="564">16%</tspan>
+        </text>
+        <g id="question" transform="translate(100.000000, 50.000000)">
+            <text id="question-title" font-family="Poppins-Bold, Poppins" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="50" y="27.8030303">¿CUÁLES SON LOS PRINCIPALES OBSTÁCULOS DE LA VACUNA?</tspan>
+            </text>
+            <g id="question-icon">
+                <path d="M1.38600004,2.22727273 L21,2.22727273 C29.2842712,2.22727273 36,8.94300148 36,17.2272727 L36,24.55703 C36,32.9771635 29.1741332,39.8030303 20.7539997,39.8030303 L1.38600004,39.8030303 C0.620533353,39.8030303 3.15787237e-16,39.1824969 0,38.4170303 L0,3.61327276 C-9.37426324e-17,2.84780608 0.620533353,2.22727273 1.38600004,2.22727273 Z" id="Rectangle" fill="#3B3B3B"></path>
+                <text id="Q" font-family="Poppins-Bold, Poppins" font-size="27.72" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="6" y="29">Q</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

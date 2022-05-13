@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="283px" viewBox="0 0 1000 283" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg202</title>
+    <g id="svg202" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box" transform="translate(100.000000, 16.000000)">
+            <rect id="Rectangle" stroke="#011E41" stroke-width="3" fill="#F6F9FA" x="1.5" y="34.5" width="797" height="218"></rect>
+            <circle id="Oval" stroke="#011E41" stroke-width="3" fill="#F6F9FA" cx="396" cy="35" r="33.5"></circle>
+            <rect id="Rectangle" fill="#F6F9FA" x="342" y="37" width="120" height="35"></rect>
+            <text id="Abordar-las-lagunas" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+                <tspan x="22" y="68">Abordar las lagunas de información. Es necesario informar más sobre los </tspan>
+                <tspan x="22" y="100">riesgos y la respuesta a la salud mental, sobre la importancia de las </tspan>
+                <tspan x="22" y="132">pruebas COVID y sobre la vacuna (ubicación de los centros, efectos </tspan>
+                <tspan x="22" y="164">secundarios, seguridad y cómo registrarse). Enviar mensajes </tspan>
+                <tspan x="22" y="196">tranquilizadores y  en idiomas locales y nativos y hacer uso de los agentes </tspan>
+                <tspan x="22" y="228">de confianza para captar la atención de las comunidades.</tspan>
+            </text>
+            <text id="2" font-family="Poppins-Bold, Poppins" font-size="39" font-weight="bold" fill="#668490">
+                <tspan x="385.3655" y="45">2</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

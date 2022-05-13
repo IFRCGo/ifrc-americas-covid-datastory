@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="386px" viewBox="0 0 1000 386" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg209</title>
+    <g id="svg209" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box" transform="translate(100.000000, 16.000000)">
+            <rect id="Rectangle" stroke="#011E41" stroke-width="3" fill="#F6F9FA" x="1.5" y="34.5" width="797" height="318"></rect>
+            <circle id="Oval" stroke="#011E41" stroke-width="3" fill="#F6F9FA" cx="396" cy="35" r="33.5"></circle>
+            <rect id="Rectangle" fill="#F6F9FA" x="342" y="37" width="120" height="35"></rect>
+            <text id="7" font-family="Poppins-Bold, Poppins" font-size="39" font-weight="bold" fill="#668490">
+                <tspan x="386.0675" y="45">7</tspan>
+            </text>
+            <text id="Garantizar-que-las-e" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+                <tspan x="23" y="70">Garantizar que las estrategias de vacunación se centran en las </tspan>
+                <tspan x="23" y="102">comunidades y en la evidencia. Esforzarse por mantener o mejorar la </tspan>
+                <tspan x="23" y="134">manera de acercarse e interactuar con las comunidades. En los países en </tspan>
+                <tspan x="23" y="166">los que hay poca confianza en las autoridades locales, hay que asegurarse </tspan>
+                <tspan x="23" y="198">de aumentar los esfuerzos de participación de la comunidad y de que los </tspan>
+                <tspan x="23" y="230">profesionales sanitarios, los agentes humanitarios y los científicos lleven </tspan>
+                <tspan x="23" y="262">una información y comunicación fiables a las poblaciones. Favorecer el </tspan>
+                <tspan x="23" y="294">contacto directo con las fuentes de confianza en los países tales como los </tspan>
+                <tspan x="23" y="326">líderes comunitarios y religiosos, etc. </tspan>
+            </text>
+        </g>
+    </g>
+</svg>

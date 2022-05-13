@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="911px" viewBox="0 0 1000 911" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg37</title>
+    <g id="svg37" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Las-5-fuentes-de-inf" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+            <tspan x="100" y="128">Las 5 fuentes de información de confianza de los encuestados son: </tspan>
+            <tspan x="100" y="160">profesionales sanitarios (71 %); ministerios de salud (41 %); voluntarios de la </tspan>
+            <tspan x="100" y="192">Cruz Roja (40 %); OMS y agencias de la ONU (26 %) y trabajadores sanitarios de </tspan>
+            <tspan x="100" y="224">la comunidad (17 %). No hay una gran diferencia en los resultados entre </tspan>
+            <tspan x="100" y="256">hombres y mujeres ni entre migrantes y residentes. Sin embargo, los </tspan>
+            <tspan x="100" y="288">encuestados mayores de 60 años se fían menos de la OMS y las agencias de la </tspan>
+            <tspan x="100" y="320">ONU como fuentes de información (17 % frente a un 30 % en los otros grupos de </tspan>
+            <tspan x="100" y="352">edad).  </tspan>
+            <tspan x="100" y="384"></tspan>
+            <tspan x="100" y="416">Esta observación coincide bien con la confianza en los profesionales sanitarios: </tspan>
+        </text>
+        <g id="Group-2" transform="translate(74.000000, 465.000000)" fill-rule="nonzero">
+            <text id="Profesionales-sanita" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="165.625" y="16">Profesionales sanitarios</tspan>
+            </text>
+            <text id="Ministerio-de-salud" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="202.78" y="47">Ministerio de salud</tspan>
+            </text>
+            <text id="Voluntarios-de-la-Cr" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="142.585" y="79">Voluntarios de la Cruz Roja</tspan>
+            </text>
+            <text id="OMS-y-ONU" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="260.575" y="110">OMS y ONU</tspan>
+            </text>
+            <text id="Trabajadores-sanitar" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="32.215" y="141">Trabajadores sanitarios de la comunidad</tspan>
+            </text>
+            <text id="ONG" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="308.995" y="173">ONG</tspan>
+            </text>
+            <text id="Líderes-de-la-comuni" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="157.915" y="204">Líderes de la comunidad</tspan>
+            </text>
+            <text id="Líderes-religiosos" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="215.695" y="236">Líderes religiosos</tspan>
+            </text>
+            <text id="Amigos-y-familiares" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="195.265" y="267">Amigos y familiares</tspan>
+            </text>
+            <text id="Influenciadores-y-fa" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="145.345" y="298">Influenciadores y famosos</tspan>
+            </text>
+            <text id="Municipalidad" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="236.32" y="329">Municipalidad</tspan>
+            </text>
+            <text id="Ministerio-de-salud" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="202.78" y="360">Ministerio de salud</tspan>
+            </text>
+            <text id="Líderes-políticos" fill="#605E5C" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal">
+                <tspan x="223.855" y="393">Líderes políticos</tspan>
+            </text>
+            <rect id="Rectangle" fill="#668490" x="353" y="1" width="465" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="353" y="33" width="258" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="352" y="64" width="255" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="353" y="96" width="165" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="353" y="127" width="127" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="352" y="159" width="96" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="352" y="190" width="61" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="352" y="221" width="50" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="353" y="253" width="43" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="352" y="284" width="32" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="353" y="316" width="23" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="352" y="347" width="14" height="24"></rect>
+            <rect id="Rectangle" fill="#668490" x="353" y="378" width="9" height="24"></rect>
+            <text id="28%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="786" y="17">28%</tspan>
+            </text>
+            <text id="15%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="583" y="48">15%</tspan>
+            </text>
+            <text id="15%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="579" y="81">15%</tspan>
+            </text>
+            <text id="10%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="490" y="112">10%</tspan>
+            </text>
+            <text id="7%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="456" y="143">7%</tspan>
+            </text>
+            <text id="5%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="423" y="175">5%</tspan>
+            </text>
+            <text id="3%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="389" y="206">3%</tspan>
+            </text>
+            <text id="3%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="379" y="238">3%</tspan>
+            </text>
+            <text id="2%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="372" y="269">2%</tspan>
+            </text>
+            <text id="2%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="361" y="300">2%</tspan>
+            </text>
+            <text id="1%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="358" y="332">1%</tspan>
+            </text>
+            <text id="0.5%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="371" y="364">0.5%</tspan>
+            </text>
+            <text id="0.2%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="367" y="397">0.2%</tspan>
+            </text>
+        </g>
+        <g id="Group-10" transform="translate(100.000000, 33.803030)" fill="#000000" font-family="Poppins-Bold, Poppins" font-size="20" font-weight="bold">
+            <text id="FUENTES-DE-INFORMACI">
+                <tspan x="0" y="21">FUENTES DE INFORMACIÓN DE CONFIANZA</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

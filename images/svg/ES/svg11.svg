@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="1330px" viewBox="0 0 1000 1330" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg11</title>
+    <g id="svg11" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1000" height="1330"></rect>
+        <rect id="title-bg" fill="#F7F7F7" x="99" y="10" width="810" height="34"></rect>
+        <g id="Group-10" transform="translate(99.000000, 780.000000)">
+            <g id="bars" transform="translate(0.000000, 175.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#F5333F" x="0" y="0" width="100.06639" height="100"></rect>
+                <rect id="Rectangle" fill="#FBADB2" x="99.7925311" y="0" width="66.7012448" height="100"></rect>
+                <rect id="Rectangle" fill="#011E41" x="166.493776" y="0" width="500.93361" height="100"></rect>
+                <rect id="Rectangle" fill="#668490" x="667.427386" y="0" width="132.572614" height="100"></rect>
+                <text id="12%" fill="#FFFFFF" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal">
+                    <tspan x="34" y="57">12%</tspan>
+                </text>
+                <text id="8%" fill="#FFFFFF" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal">
+                    <tspan x="123" y="57">8%</tspan>
+                </text>
+                <text id="63%" fill="#FFFFFF" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal">
+                    <tspan x="387" y="57">63%</tspan>
+                </text>
+                <text id="17%" fill="#FFFFFF" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal">
+                    <tspan x="720" y="57">17%</tspan>
+                </text>
+            </g>
+            <g id="legend" transform="translate(128.000000, 102.000000)">
+                <rect id="Rectangle" fill="#F5333F" x="0" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="No" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="29.9331989" y="20">No</tspan>
+                </text>
+                <rect id="Rectangle" fill="#FBADB2" x="92.9871439" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="No-estoy-seguro" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="122.920343" y="20">No estoy seguro</tspan>
+                </text>
+                <rect id="Rectangle" fill="#011E41" x="307.71994" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Sí" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="337.653138" y="20">Sí</tspan>
+                </text>
+                <rect id="Rectangle" fill="#668490" x="385.801865" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Sí,-vacunados" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#000000">
+                    <tspan x="415.735064" y="20">Sí, vacunados</tspan>
+                </text>
+            </g>
+            <text id="Hay-una-aceptación-g" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+                <tspan x="0" y="356">Hay una aceptación general de la vacuna relativamente alta, ya que solo 2 de </tspan>
+                <tspan x="0" y="388">cada 10 personas rechazarían vacunarse.  </tspan>
+                <tspan x="0" y="420"></tspan>
+                <tspan x="0" y="452">Jamaica es la excepción: allí 5 de cada 10 personas rechazarían vacunarse. </tspan>
+            </text>
+            <g id="question">
+                <text id="question-title" font-family="Poppins-Bold, Poppins" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="50" y="21">SI LA VACUNA DEL COVID ESTUVIERA DISPONIBLE Y SE TE RECOMENDASE, </tspan>
+                    <tspan x="50" y="49">¿TE LA PONDRÍAS?</tspan>
+                </text>
+                <g id="question-icon" transform="translate(0.000000, 5.196970)">
+                    <path d="M1.38600004,2.22727273 L21,2.22727273 C29.2842712,2.22727273 36,8.94300148 36,17.2272727 L36,24.55703 C36,32.9771635 29.1741332,39.8030303 20.7539997,39.8030303 L1.38600004,39.8030303 C0.620533353,39.8030303 3.15787237e-16,39.1824969 0,38.4170303 L0,3.61327276 C-9.37426324e-17,2.84780608 0.620533353,2.22727273 1.38600004,2.22727273 Z" id="Rectangle" fill="#3B3B3B"></path>
+                    <text id="Q" font-family="Poppins-Bold, Poppins" font-size="27.72" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="6" y="29">Q</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="main_findings" transform="translate(99.000000, 82.000000)">
+            <rect id="Rectangle" fill="#F5333F" x="0" y="0" width="810" height="372" rx="20"></rect>
+            <path d="M20,0 L790,0 C801.045695,-2.02906125e-15 810,8.954305 810,20 L810,48 L810,48 L0,48 L0,20 C-1.3527075e-15,8.954305 8.954305,9.13448861e-15 20,0 Z" id="Rectangle" fill="#668490"></path>
+            <g id="finding" transform="translate(23.000000, 288.000000)" fill="#FFFFFF">
+                <text id="Los-participantes-de" font-family="Poppins-SemiBold, Poppins" font-size="18" font-weight="500">
+                    <tspan x="26" y="19">Los participantes de comunidades indígenas tienen más problemas con la </tspan>
+                    <tspan x="26" y="44">distancia y los horarios de apertura.</tspan>
+                </text>
+                <rect id="Rectangle" x="0" y="7" width="12" height="12"></rect>
+            </g>
+            <g id="finding" transform="translate(23.000000, 67.000000)" fill="#FFFFFF">
+                <text id="El-nivel-de-aceptaci" font-family="Poppins-SemiBold, Poppins" font-size="18" font-weight="500">
+                    <tspan x="26" y="19">El nivel de aceptación de la vacuna es alto en los países. Solo dos de cada diez </tspan>
+                    <tspan x="26" y="44">de los encuestados rechazarían ponérsela, excepto en Jamaica donde la cifra </tspan>
+                    <tspan x="26" y="69">es de cinco de cada diez.</tspan>
+                </text>
+                <rect id="Rectangle" x="0" y="8" width="12" height="12"></rect>
+            </g>
+            <text id="OBSERVACIONES-PRINCI" font-family="Poppins-Bold, Poppins" font-size="22" font-weight="bold" fill="#FFFFFF">
+                <tspan x="49" y="32">OBSERVACIONES PRINCIPALES</tspan>
+            </text>
+            <path d="M41,16.5564292 C40.9977759,12.9343747 38.3066064,10 34.9872957,10 C31.8755033,10 29.3472658,12.5863032 29.0359365,15.8894566 L16.7840784,15.8894566 C15.8033318,15.8882717 15,16.7645725 15,17.8343467 L15,31.8977017 C15,32.9699585 15.8033318,33.8438331 16.7840784,33.8438331 L29.6763882,33.8438331 C30.6593589,33.8438331 31.4649149,32.9699585 31.4649149,31.8977017 L31.4649149,21.8482567 C32.2024016,22.4324572 33.0637682,22.8365001 33.9998767,23.0057118 L34.025532,24.5319455 L33.1663895,24.8459377 L33.1663895,33.2304056 C33.1663895,33.2304056 33.9920145,34.1553992 35.0742962,34.0750533 C36.1543536,33.9959487 36.8037019,33.2328318 36.8037019,33.2328318 L36.8048398,24.8471226 L36.0026459,24.6317008 L35.9792147,23.0056553 C38.8254023,22.4848175 40.9977759,19.8060375 41,16.5564292 Z M34.9861578,21.6060905 C32.4322132,21.6060905 30.3592022,19.3447256 30.3592022,16.5551879 C30.3592022,13.7656502 32.429989,11.5079483 34.9883819,11.5079483 C37.5422748,11.5042853 39.6153375,13.7644089 39.6175616,16.5588554 C39.6153892,19.3459669 37.5467748,21.6060905 34.9861578,21.6060905 Z M28.385502,29.9881323 L18.0749646,29.9881323 L18.0749646,28.7077886 L28.385502,28.7077886 L28.385502,29.9881323 Z M28.385502,25.508058 L18.0749646,25.508058 L18.0749646,24.2252317 L28.385502,24.2252317 L28.385502,25.508058 Z M28.385502,21.029225 L18.0749646,21.029225 L18.0749646,19.7463987 L28.385502,19.7463987 L28.385502,21.029225 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero" opacity="0.727767218"></path>
+            <g id="finding" transform="translate(23.000000, 165.000000)" fill="#FFFFFF">
+                <text id="Los-migrantes-y-los" font-family="Poppins-SemiBold, Poppins" font-size="18" font-weight="500">
+                    <tspan x="26" y="19">Los migrantes y los pueblos indígenas señalan más limitaciones a la hora de </tspan>
+                    <tspan x="26" y="44">acceder a los servicios de vacunación.  La distancia, las largas esperas, los </tspan>
+                    <tspan x="26" y="69">horarios de apertura inoportunos y los servicios inadecuados son los </tspan>
+                    <tspan x="26" y="94">principales obstáculos de acceso a los centros de vacunación.</tspan>
+                </text>
+                <rect id="Rectangle" x="0" y="8" width="12" height="12"></rect>
+            </g>
+        </g>
+        <text id="Conocimiento-y-acces" font-family="Poppins-Bold, Poppins" font-size="28" font-weight="bold" fill="#000000">
+            <tspan x="120" y="36">Conocimiento y acceso a la vacuna</tspan>
+        </text>
+        <rect id="Rectangle" fill="#F5333F" x="100" y="12" width="13" height="30"></rect>
+        <g id="scroll_down_g" transform="translate(225.000000, 519.000000)">
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.534372239" x="0" y="4" width="564" height="74"></rect>
+            <g id="scroll_down" transform="translate(13.000000, 0.000000)">
+                <text id="Sigue-deslizando-par" font-family="Poppins-SemiBold, Poppins" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="0" y="19">Sigue deslizando para ver los hechos y las cifras detallados.</tspan>
+                </text>
+                <polyline id="Path-10" stroke="#717171" stroke-width="5" stroke-linecap="round" points="216.954894 51.7016895 263.260238 76.7016895 309.565581 51.7016895"></polyline>
+                <polyline id="Path-10" stroke="#717171" stroke-width="3" stroke-linecap="round" points="216.954894 60.7016895 263.260238 85.7016895 309.565581 60.7016895"></polyline>
+                <polyline id="Path-10" stroke="#717171" stroke-width="3" stroke-linecap="round" points="216.954894 60.7016895 263.260238 85.7016895 309.565581 60.7016895"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

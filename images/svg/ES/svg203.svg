@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="283px" viewBox="0 0 1000 283" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg203</title>
+    <g id="svg203" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box" transform="translate(100.000000, 16.000000)">
+            <rect id="Rectangle" stroke="#011E41" stroke-width="3" fill="#F6F9FA" x="1.5" y="34.5" width="797" height="217"></rect>
+            <circle id="Oval" stroke="#011E41" stroke-width="3" fill="#F6F9FA" cx="396" cy="35" r="33.5"></circle>
+            <rect id="Rectangle" fill="#F6F9FA" x="342" y="37" width="120" height="35"></rect>
+            <text id="3" font-family="Poppins-Bold, Poppins" font-size="39" font-weight="bold" fill="#668490">
+                <tspan x="384.7025" y="45">3</tspan>
+            </text>
+            <text id="Los-jóvenes-y-los-ma" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+                <tspan x="22" y="67">Los jóvenes y los mayores necesitan estrategias de involucramiento a la </tspan>
+                <tspan x="22" y="99">medida. Dar información transparente y de calidad sobre el COVID-19 a </tspan>
+                <tspan x="22" y="131">través de internet y de las redes sociales para los jóvenes de entre 18 y 29 </tspan>
+                <tspan x="22" y="163">años; favorecer el contacto directo con personas mayores de 70 años, </tspan>
+                <tspan x="22" y="195">sobre todo a través de los líderes religiosos y comunitarios, que son la </tspan>
+                <tspan x="22" y="227">fuente de más confianza entre los adultos mayores.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

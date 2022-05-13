@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="856px" viewBox="0 0 1000 856" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg32</title>
+    <g id="svg32" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10" transform="translate(100.000000, 117.000000)" fill="#000000" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32">
+            <text id="El-nivel-de-confianz">
+                <tspan x="0" y="21">El nivel de confianza en los agentes humanitarios ha aumentado durante la </tspan>
+                <tspan x="0" y="53">pandemia (a excepción de Panamá), ya que estos se han posicionado como la </tspan>
+                <tspan x="0" y="85">segunda fuente de información de confianza tras los científicos.</tspan>
+            </text>
+        </g>
+        <text id="Confianza-en-los-age" font-family="Poppins-Bold, Poppins" font-size="24" font-weight="bold" fill="#222222">
+            <tspan x="100" y="58">Confianza en los agentes humanitarios</tspan>
+        </text>
+        <text id="Nivel-de-confianza-e" font-family="Poppins-Bold, Poppins" font-size="21" font-weight="bold" fill="#000000">
+            <tspan x="100" y="279">Nivel de confianza en los tomadores de decisión antes del COVID-19</tspan>
+        </text>
+        <line x1="619" y1="283.5" x2="681.522779" y2="283.5" id="red_line" stroke="#F5333F" stroke-width="3"></line>
+        <line x1="466" y1="563.5" x2="556.522779" y2="563.5" id="red_line" stroke="#F5333F" stroke-width="3"></line>
+        <g id="Group-8" transform="translate(100.000000, 328.000000)">
+            <g id="Group-3" transform="translate(0.000000, 50.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#FBADB2" x="23.7872687" y="0" width="80.0663137" height="100"></rect>
+                <rect id="Rectangle" fill="#99ADB5" x="103.608288" y="0" width="408.3382" height="100"></rect>
+                <rect id="Rectangle" fill="#F5333F" x="0" y="0" width="24.0198941" height="100"></rect>
+                <rect id="Rectangle" fill="#011E41" x="511.761271" y="0" width="248.205572" height="100"></rect>
+                <rect id="Rectangle" fill="#CCD6DA" x="759.966843" y="0" width="40.0331568" height="100"></rect>
+            </g>
+            <text id="10%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                <tspan x="47.77604" y="106">10%</tspan>
+            </text>
+            <text id="51%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                <tspan x="290.77604" y="105">51%</tspan>
+            </text>
+            <text id="3%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                <tspan x="2.673228" y="106">3%</tspan>
+            </text>
+            <text id="31%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                <tspan x="626.14654" y="105">31%</tspan>
+            </text>
+            <text id="5%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                <tspan x="766.81604" y="105">5%</tspan>
+            </text>
+            <rect id="Rectangle" fill="#F5333F" x="61.2533263" y="1.76" width="21.1293169" height="21.12"></rect>
+            <text id="Ninguna" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                <tspan x="91.1865252" y="20">Ninguna</tspan>
+            </text>
+            <rect id="Rectangle" fill="#99A5B3" x="305.292147" y="1.76" width="21.1293169" height="21.12"></rect>
+            <text id="Moderado" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                <tspan x="335.225345" y="20">Moderado</tspan>
+            </text>
+            <rect id="Rectangle" fill="#FBADB2" x="194.24047" y="1.76" width="21.1293169" height="21.12"></rect>
+            <text id="Bajo" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                <tspan x="226.173669" y="20">Bajo</tspan>
+            </text>
+            <rect id="Rectangle" fill="#011E41" x="457.973266" y="1.76" width="21.1293169" height="21.12"></rect>
+            <text id="Muy-alto" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                <tspan x="487.906465" y="20">Muy alto</tspan>
+            </text>
+            <rect id="Rectangle" fill="#CCD6DA" x="599.973266" y="1.76" width="21.1293169" height="21.12"></rect>
+            <text id="No-contesta" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                <tspan x="629.906465" y="20">No contesta</tspan>
+            </text>
+        </g>
+        <g id="Group-9" transform="translate(98.000000, 608.000000)">
+            <g id="Group-4" transform="translate(0.000000, 53.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#99ADB5" x="118.679071" y="0" width="301.237124" height="100"></rect>
+                <rect id="Rectangle" fill="#011E41" x="419.67333" y="0" width="340.873587" height="100"></rect>
+                <rect id="Rectangle" fill="#F5333F" x="0" y="0" width="118.909391" height="100"></rect>
+                <rect id="Rectangle" fill="#CCD6DA" x="760.363536" y="0" width="39.6364636" height="100"></rect>
+            </g>
+            <text id="43%" fill-rule="nonzero" font-family="Poppins-Bold, Poppins" font-size="19" font-weight="bold" fill="#FFFFFF">
+                <tspan x="578.54854" y="109">43%</tspan>
+            </text>
+            <text id="38%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                <tspan x="258.19204" y="109">38%</tspan>
+            </text>
+            <text id="15%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                <tspan x="46.262728" y="110">15%</tspan>
+            </text>
+            <text id="5%" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal" fill="#FFFFFF">
+                <tspan x="767.81604" y="109">5%</tspan>
+            </text>
+            <text id="Disminuye" font-family="Poppins-Bold, Poppins" font-size="19" font-weight="bold" fill="#000000">
+                <tspan x="9.21832631" y="186">Disminuye</tspan>
+            </text>
+            <text id="Aumenta" font-family="Poppins-Bold, Poppins" font-size="19" font-weight="bold" fill="#000000">
+                <tspan x="554.225826" y="186">Aumenta</tspan>
+            </text>
+            <g id="Group-5" transform="translate(98.253326, 0.000000)">
+                <rect id="Rectangle" fill="#F5333F" x="0" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Disminuye" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="29.9331989" y="20">Disminuye</tspan>
+                </text>
+                <rect id="Rectangle" fill="#99A5B3" x="161.03882" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Sin-cambios" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="190.972019" y="20">Sin cambios</tspan>
+                </text>
+                <rect id="Rectangle" fill="#011E41" x="324.71994" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Aumenta" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="354.653138" y="20">Aumenta</tspan>
+                </text>
+                <rect id="Rectangle" fill="#CCD6DA" x="468.71994" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="No-contesta" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="498.653138" y="20">No contesta</tspan>
+                </text>
+            </g>
+            <line x1="59.4546955" y1="166" x2="59.4546955" y2="153" id="Path" stroke="#979797"></line>
+            <line x1="598.454695" y1="166" x2="598.454695" y2="153" id="Path" stroke="#979797"></line>
+            <text id="Confianza-en-los-age" font-family="Poppins-Regular, Poppins" font-size="13.773392" font-weight="normal" fill="#000000">
+                <tspan x="8.25332631" y="206">Confianza en los agentes humanitarios</tspan>
+            </text>
+            <text id="Confianza-en-los-age" font-family="Poppins-Regular, Poppins" font-size="13.773392" font-weight="normal" fill="#000000">
+                <tspan x="531.253326" y="206">Confianza en los agentes humanitarios</tspan>
+            </text>
+            <polygon id="Path-2" fill="#F5333F" points="118.817985 174.5 126.502255 184.418494 134.186525 174.5"></polygon>
+            <polygon id="Path-2" fill="#011E41" transform="translate(661.937596, 178.959247) scale(1, -1) translate(-661.937596, -178.959247) " points="654.253326 174 661.937596 183.918494 669.621866 174"></polygon>
+        </g>
+        <text id="Nivel-de-confianza-e" font-family="Poppins-Bold, Poppins" font-size="21" font-weight="bold" fill="#000000">
+            <tspan x="100" y="559">Nivel de confianza en los políticos después del COVID-19</tspan>
+        </text>
+    </g>
+</svg>

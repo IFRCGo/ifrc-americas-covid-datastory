@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="447px" viewBox="0 0 1000 447" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg45</title>
+    <g id="svg45" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Pueblos-indígenas-Lo" font-family="Poppins-Bold, Poppins" font-size="20" font-weight="bold" line-spacing="32" fill="#000000">
+            <tspan x="100" y="47">Pueblos indígenas</tspan>
+            <tspan x="100" y="79" font-family="Poppins-Regular, Poppins" font-weight="normal"></tspan>
+            <tspan x="100" y="111" font-family="Poppins-Regular, Poppins" font-weight="normal">Los encuestados indígenas afirmaron sufrir repercusiones socioeconómicas </tspan>
+            <tspan x="100" y="143" font-family="Poppins-Regular, Poppins" font-weight="normal">particularmente graves, ya que el 86 % de ellos experimentaría una reducción </tspan>
+            <tspan x="100" y="175" font-family="Poppins-Regular, Poppins" font-weight="normal">de ingresos; el 61 %, una pérdida de ingresos; el 53 %, un aumento de los costes </tspan>
+            <tspan x="100" y="207" font-family="Poppins-Regular, Poppins" font-weight="normal">de vida y el 23 %, una incapacidad para obtener atención sanitaria básica. </tspan>
+        </text>
+        <g id="Group-3" transform="translate(-13.000000, 263.000000)" fill-rule="nonzero">
+            <text id="Reducción-de-ingreso" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                <tspan x="329.705" y="19">Reducción de ingresos</tspan>
+            </text>
+            <text id="Pérdida-de-ingresos" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                <tspan x="351.275" y="52">Pérdida de ingresos</tspan>
+            </text>
+            <text id="Aumento-de-los-coste" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                <tspan x="269.345" y="84">Aumento de los costes de vida</tspan>
+            </text>
+            <text id="Incapacidad-de-obten" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                <tspan x="121.685" y="118">Incapacidad de obtener atención sanitaria básica</tspan>
+            </text>
+            <rect id="Rectangle" fill="#668490" x="508" y="0" width="404" height="26"></rect>
+            <rect id="Rectangle" fill="#668490" x="509" y="33" width="286" height="26"></rect>
+            <rect id="Rectangle" fill="#668490" x="508" y="66" width="249" height="26"></rect>
+            <rect id="Rectangle" fill="#668490" x="509" y="99" width="108" height="26"></rect>
+            <text id="86%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="878" y="17">86%</tspan>
+            </text>
+            <text id="61%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="764" y="50">61%</tspan>
+            </text>
+            <text id="53%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="725" y="84">53%</tspan>
+            </text>
+            <text id="23%" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="585" y="117">23%</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="605px" viewBox="0 0 1000 605" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg16</title>
+    <g id="svg16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1000" height="605"></rect>
+        <g id="Group-10" transform="translate(100.000000, 50.000000)">
+            <g id="bars" transform="translate(0.000000, 144.803030)" fill-rule="nonzero">
+                <g id="Group">
+                    <rect id="Rectangle" fill="#F5333F" x="0" y="0" width="141.101453" height="100"></rect>
+                    <rect id="Rectangle" fill="#011E41" x="140.869872" y="0" width="660.130128" height="100"></rect>
+                </g>
+                <text id="18%" fill="#FFFFFF" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal">
+                    <tspan x="54" y="57">18%</tspan>
+                </text>
+                <text id="82%" fill="#FFFFFF" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal">
+                    <tspan x="447" y="57">82</tspan>
+                    <tspan x="469.914" y="57">%</tspan>
+                </text>
+            </g>
+            <g id="legend" transform="translate(298.000000, 77.803030)">
+                <rect id="Rectangle" fill="#F5333F" x="0" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="No" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="29.9331989" y="20">No</tspan>
+                </text>
+                <rect id="Rectangle" fill="#011E41" x="125.71994" y="1.76" width="21.1293169" height="21.12"></rect>
+                <text id="Sí" font-family="Poppins-Regular, Poppins" font-size="18.773392" font-weight="normal" fill="#000000">
+                    <tspan x="155.653138" y="20">Sí</tspan>
+                </text>
+            </g>
+            <text id="La-mayoría-de-los-en" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+                <tspan x="0" y="334.80303">La mayoría de los encuestados sabe dónde ir a vacunarse y afirman que </tspan>
+                <tspan x="0" y="366.80303">acceder al servicio es fácil.  Sin embargo, los migrantes y los pueblos indígenas </tspan>
+                <tspan x="0" y="398.80303">señalan más limitaciones a la hora de acceder a los servicios de vacunación. </tspan>
+                <tspan x="0" y="430.80303">Aunque los encuestados de los comunidades indígenas expresaron interés por </tspan>
+                <tspan x="0" y="462.80303">vacunarse, cuando se llevó a cabo la encuesta ninguno se había vacunado.  </tspan>
+            </text>
+            <g id="question">
+                <text id="question-title" font-family="Poppins-Bold, Poppins" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="50" y="27.8030303">¿SABES DÓNDE IR A VACUNARTE?</tspan>
+                </text>
+                <g id="question-icon">
+                    <path d="M1.38600004,2.22727273 L21,2.22727273 C29.2842712,2.22727273 36,8.94300148 36,17.2272727 L36,24.55703 C36,32.9771635 29.1741332,39.8030303 20.7539997,39.8030303 L1.38600004,39.8030303 C0.620533353,39.8030303 3.15787237e-16,39.1824969 0,38.4170303 L0,3.61327276 C-9.37426324e-17,2.84780608 0.620533353,2.22727273 1.38600004,2.22727273 Z" id="Rectangle" fill="#3B3B3B"></path>
+                    <text id="Q" font-family="Poppins-Bold, Poppins" font-size="27.72" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="6" y="29">Q</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

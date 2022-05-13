@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="526px" viewBox="0 0 1000 526" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg08</title>
+    <g id="svg08" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="El-44-%-era-personas" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+            <tspan x="100" y="49">El 44 % era personas desplazadas y el 44 % era residentes. </tspan>
+        </text>
+        <g id="Group" transform="translate(70.000000, 106.232558)">
+            <g id="labels" transform="translate(0.000000, 8.767442)" fill="#000000" font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400">
+                <text id="Comunidad-de-acogida">
+                    <tspan x="55.8" y="17">Comunidad de acogida</tspan>
+                </text>
+                <text id="Migrante">
+                    <tspan x="176.616" y="75">Migrante</tspan>
+                </text>
+                <text id="No-contesta">
+                    <tspan x="151.736" y="130">No contesta</tspan>
+                </text>
+                <text id="Refugiado">
+                    <tspan x="166.344" y="184">Refugiado</tspan>
+                </text>
+                <text id="Persona-desplazada-i">
+                    <tspan x="84.056" y="232">Persona desplazada </tspan>
+                    <tspan x="138.488" y="255">internamente</tspan>
+                </text>
+                <text id="Solicitante-de-asilo">
+                    <tspan x="96.76" y="294">Solicitante de asilo</tspan>
+                </text>
+            </g>
+            <g id="residence_bars" transform="translate(266.000000, 0.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#011E41" x="2.84217094e-13" y="0" width="564" height="51.1648963"></rect>
+                <rect id="Rectangle" fill="#668490" x="-2.84217094e-14" y="54.8058506" width="420.84649" height="51.1648963"></rect>
+                <rect id="Rectangle" fill="#CCD6D9" x="4.26325641e-14" y="109.611701" width="156.956365" height="51.1648963"></rect>
+                <rect id="Rectangle" fill="#668490" x="5.68434189e-14" y="164.417552" width="58.6366468" height="51.1648963"></rect>
+                <rect id="Rectangle" fill="#668490" x="-8.52651283e-14" y="219.223402" width="46.6416407" height="51.1648963"></rect>
+                <rect id="Rectangle" fill="#668490" x="-5.68434189e-14" y="274.029253" width="15.1793309" height="51.1648963"></rect>
+            </g>
+            <g id="residence_labels" transform="translate(279.135211, 12.588945)" font-family="Poppins-Regular, Poppins" font-size="19" font-weight="normal">
+                <text id="33%" fill="#FFFFFF" fill-rule="nonzero">
+                    <tspan x="357.674793" y="73.8882316">33%</tspan>
+                </text>
+                <text id="12%" fill="#FFFFFF" fill-rule="nonzero">
+                    <tspan x="102.442863" y="129.695219">12%</tspan>
+                </text>
+                <text id="5%" fill="#FFFFFF" fill-rule="nonzero">
+                    <tspan x="10.6288886" y="184.417552">5%</tspan>
+                </text>
+                <text id="4%" fill="#FFFFFF" fill-rule="nonzero">
+                    <tspan x="-8.52651283e-14" y="238.223402">4%</tspan>
+                </text>
+                <text id="1%" fill="#000000">
+                    <tspan x="13.1569235" y="292.041918">1%</tspan>
+                </text>
+                <text id="44%" fill="#FFFFFF" fill-rule="nonzero">
+                    <tspan x="501.979991" y="20">44%</tspan>
+                </text>
+            </g>
+            <text id="(Residentes)" font-family="Poppins-Regular, Poppins" font-size="13" font-weight="normal" fill="#727272">
+                <tspan x="167" y="44.7674419">(Residentes)</tspan>
+            </text>
+        </g>
+        <rect id="hover_migrant" fill-opacity="0" fill="#565656" x="178" y="162" width="151" height="43"></rect>
+        <rect id="hover_refugee" fill-opacity="0" fill="#565656" x="178" y="273" width="151" height="43"></rect>
+        <rect id="hover_idp" fill-opacity="0" fill="#565656" x="94" y="328" width="235" height="43"></rect>
+        <rect id="hover_asylum_seeker" fill-opacity="0" fill="#565656" opacity="0.796502976" x="187" y="383" width="142" height="43"></rect>
+        <rect id="hover_host" fill-opacity="0" fill="#565656" x="178" y="114" width="151" height="43"></rect>
+        <text id="Desplázate-por-las-e" font-family="Poppins-Italic, Poppins" font-size="13" font-style="italic" font-weight="normal" fill="#6E6E6E">
+            <tspan x="85.751" y="478">Desplázate por las etiquetas para leer </tspan>
+            <tspan x="77.678" y="497">más información sobre las definiciones</tspan>
+        </text>
+        <g id="Group-2" transform="translate(329.000000, 100.000000)">
+            <g id="info_migrant" transform="translate(0.000000, 33.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="18.5" y="0.5" width="536" height="208"></rect>
+                <text id="La-política-de-migra" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                    <tspan x="29" y="23">La política de migración de la Federación Internacional de las </tspan>
+                    <tspan x="29" y="44">Sociedades de la Cruz Roja y de la Media Luna Roja describe a los </tspan>
+                    <tspan x="29" y="65">migrantes como «personas que dejan o huyen su lugar de </tspan>
+                    <tspan x="29" y="86">residencia habitual para ir a un nuevo lugar, fuera de las fronteras </tspan>
+                    <tspan x="29" y="107">nacionales o dentro de ellas, para buscar perspectivas mejores o </tspan>
+                    <tspan x="29" y="128">más seguras». La migración puede ser forzada o voluntaria, aunque </tspan>
+                    <tspan x="29" y="149">la mayoría de las veces se da una combinación de elecciones y </tspan>
+                    <tspan x="29" y="170">limitaciones, así como de la intención de vivir en el extranjero </tspan>
+                    <tspan x="29" y="191">durante un largo periodo de tiempo.</tspan>
+                </text>
+                <polyline id="Path-3" stroke="#979797" fill="#FFFFFF" points="19 76.203305 -1.13908882e-13 52.3666326 19 30.9342068"></polyline>
+            </g>
+            <g id="info_refugee" transform="translate(0.000000, 141.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="18.5" y="0.5" width="536" height="247"></rect>
+                <text id="Una-persona-que,-deb" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                    <tspan x="29" y="22">Una persona que, debido a fundados temores de ser perseguida </tspan>
+                    <tspan x="29" y="43">por motivos de raza, religión, nacionalidad, pertenencia a </tspan>
+                    <tspan x="29" y="64">determinado grupo social u opiniones políticas, se encuentra fuera </tspan>
+                    <tspan x="29" y="85">del país de nacimiento y no pueda o, a causa de dichos temores, no </tspan>
+                    <tspan x="29" y="106">quiera acogerse a la protección de dicho país; o que, sin tener </tspan>
+                    <tspan x="29" y="127">nacionalidad y encontrándose, a consecuencia de tales </tspan>
+                    <tspan x="29" y="148">acontecimientos, fuera del país donde antes tenía su residencia </tspan>
+                    <tspan x="29" y="169">habitual, no pueda o, a causa de dichos temores, no quiera regresar </tspan>
+                    <tspan x="29" y="190">a él. Fuente: Adaptado de la Convención sobre el Estatuto de los </tspan>
+                    <tspan x="29" y="211">Refugiados ([adoptada el 28 de julio de 1951, entró en vigor el 22 de </tspan>
+                    <tspan x="29" y="232">abril de 1954] 189 UNTS 137) Art. 1A(2).</tspan>
+                </text>
+                <polyline id="Path-3" stroke="#979797" fill="#FFFFFF" points="19 79.203305 -1.13908882e-13 55.3666326 19 33.9342068"></polyline>
+            </g>
+            <g id="info_asylum_seeker" transform="translate(0.000000, 216.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="18.5" y="0.5" width="559" height="183"></rect>
+                <text id="Una-persona-que-busc" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                    <tspan x="29" y="24">Una persona que busca protección internacional. En países con </tspan>
+                    <tspan x="29" y="45">procedimientos individualizados, una persona solicitante de asilo es </tspan>
+                    <tspan x="29" y="66">alguien cuya solicitud aún no ha sido resuelta de manera definitiva por </tspan>
+                    <tspan x="29" y="87">el país en el que la ha presentado. No todas las personas solicitantes </tspan>
+                    <tspan x="29" y="108">de asilo serán finalmente reconocidas como refugiadas, pero </tspan>
+                    <tspan x="29" y="129">inicialmente todas las personas refugiadas son solicitantes de asilo.</tspan>
+                </text>
+                <polyline id="Path-3" stroke="#979797" fill="#FFFFFF" points="19 112.203305 -1.13908882e-13 88.3666326 19 66.9342068"></polyline>
+                <text id="Fuente:-Alto-Comisio" font-family="Poppins-Regular, Poppins" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="30" y="153">Fuente: Alto Comisionado de las Naciones Unidas para los Refugiados, glosario </tspan>
+                    <tspan x="30" y="170">de términos de referencia (2006).</tspan>
+                </text>
+            </g>
+            <g id="info_idp" transform="translate(0.000000, 156.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="18.5" y="0.5" width="550" height="206"></rect>
+                <text id="La-definición-de-«de" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                    <tspan x="29" y="25">La definición de «desplazamiento interno» utilizada por el Movimiento </tspan>
+                    <tspan x="29" y="46">se recoge en los Principios Rectores de los Desplazamientos Internos, </tspan>
+                    <tspan x="29" y="67">que establecen que «las personas desplazadas internamente son </tspan>
+                    <tspan x="29" y="88">personas o grupos de personas que se han visto forzadas u obligadas </tspan>
+                    <tspan x="29" y="109">a huir o dejar su hogar habitual, en particular como consecuencia del </tspan>
+                    <tspan x="29" y="130">conflicto armado, la violencia generalizada, la violación de los </tspan>
+                    <tspan x="29" y="151">derechos humanos o las catástrofes naturales o humanas, o que no </tspan>
+                    <tspan x="29" y="172">han pasado una frontera internacionalmente reconocida (lUN doc. E/</tspan>
+                    <tspan x="29" y="193">CN.4/1 998/Add.2 de 11 de febrero de 1998). </tspan>
+                </text>
+                <polyline id="Path-3" stroke="#979797" fill="#FFFFFF" points="19 117.203305 -1.13908882e-13 93.3666326 19 71.9342068"></polyline>
+            </g>
+            <g id="info_host">
+                <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="18.5" y="0.5" width="458" height="57"></rect>
+                <text id="Una-comunidad-nacion" font-family="Poppins-Regular, Poppins" font-size="15" font-weight="normal" fill="#000000">
+                    <tspan x="28" y="23">Una comunidad nacional o local en la que viven </tspan>
+                    <tspan x="28" y="44">temporalmente las personas desplazadas.</tspan>
+                </text>
+                <polyline id="Path-3" stroke="#979797" fill="#FFFFFF" points="19 52.203305 -1.13908882e-13 28.3666326 19 6.93420683"></polyline>
+            </g>
+        </g>
+        <polyline id="Path-5" stroke="#C1C1C1" points="286.04559 446.950042 295.219736 437.775896 304.393883 446.950042"></polyline>
+    </g>
+</svg>

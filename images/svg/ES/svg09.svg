@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="592px" viewBox="0 0 1000 592" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg09</title>
+    <g id="svg09" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1000" height="592"></rect>
+        <text id="Se-entrevistó-a-pueb" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+            <tspan x="100" y="67">Se entrevistó a pueblos indígenas de Colombia, Guatemala y Panamá; estos </tspan>
+            <tspan x="100" y="99">representan casi el 12 % del sondeo total de la encuesta. </tspan>
+        </text>
+        <g id="Group-11" transform="translate(497.500000, 345.500000) scale(1, -1) translate(-497.500000, -345.500000) translate(322.000000, 170.000000)">
+            <g id="pie_indigenous">
+                <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="351" height="351"></rect>
+                <circle id="Oval" stroke="#668490" stroke-width="70" fill="#FFFFFF" cx="176" cy="176" r="140"></circle>
+                <path d="M176,252.519657 L176,322.519657 C203.156107,322.519657 228.521865,332.77807 247.901684,351 L295.852172,300.002444 C264.537297,270.55857 222.375255,252.519657 176,252.519657 Z" id="#161032:12%" fill="#F5333F" fill-rule="nonzero" transform="translate(235.926086, 301.759829) scale(1, -1) translate(-235.926086, -301.759829) "></path>
+            </g>
+            <path d="M176,1 L176,71 C233.989899,71 281,118.010101 281,176 C281,233.989899 233.989899,281 176,281 C118.010101,281 71,233.989899 71,176 C71,146.425175 83.1957558,118.972008 104.415692,99.1831521 L56.6743414,47.9897594 C22.4192778,79.9347713 1,125.466015 1,176 C1,272.649831 79.3501688,351 176,351 C272.649831,351 351,272.649831 351,176 C351,79.3501688 272.649831,1 176,1 Z" id="#FAFF81:88%" fill="#668490" fill-rule="nonzero" transform="translate(176.000000, 176.000000) scale(-1, -1) translate(-176.000000, -176.000000) "></path>
+        </g>
+        <g id="pie_indigenous_labels" transform="translate(298.039111, 151.327560)">
+            <g id="Group-2">
+                <g id="Group" transform="translate(120.000000, 13.750000)" fill="#000000" fill-opacity="0" fill-rule="nonzero" stroke="#777777">
+                    <polyline id="Path" points="143.836365 15.8597724 149.921777 0 161.921777 0"></polyline>
+                    <polyline id="Path" points="18.0854123 342.985107 12 358.84488 -1.42108547e-14 358.84488"></polyline>
+                </g>
+                <text id="Indígenas-903-(12%)" font-family="Poppins-Bold, Poppins" font-size="18" font-weight="bold" fill="#000000">
+                    <tspan x="300.771777" y="19">Indígenas</tspan>
+                    <tspan x="393.921777" y="19" font-family="Poppins-Medium, Poppins" font-weight="400"> </tspan>
+                    <tspan x="309.753777" y="44" font-family="Poppins-Regular, Poppins" font-weight="normal">903 (12%)</tspan>
+                </text>
+                <text id="6,840-(88%)" fill="#605E5C" fill-rule="nonzero" font-family="Poppins-Regular, Poppins" font-size="18" font-weight="normal">
+                    <tspan x="0" y="377.84488">6,840 (88%)</tspan>
+                </text>
+            </g>
+            <text id="12%" font-family="Poppins-Bold, Poppins" font-size="59" font-weight="bold" fill="#000000">
+                <tspan x="154.960889" y="210.67244">12%</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="1116px" viewBox="0 0 1000 1116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>svg40quote</title>
+    <g id="svg40quote" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#011E41" x="99" y="689" width="801" height="326"></rect>
+        <text id="«El-año-pasado-tuve" font-family="Poppins-Italic, Poppins" font-size="20.7" font-style="italic" font-weight="normal" line-spacing="28.8" fill="#FFFFFF">
+            <tspan x="138" y="744">«El año pasado tuve COVID y, por esta razón, me quedé sin trabajo. </tspan>
+            <tspan x="138" y="772.8">La empresa en la que trabajaba decidió despedirme porque había </tspan>
+            <tspan x="138" y="801.6">cogido el COVID. Hice mis 21 días de cuarentena e, incluso así, la </tspan>
+            <tspan x="138" y="830.4">empresa me despidió por miedo a coger el virus. Quedarme sin </tspan>
+            <tspan x="138" y="859.2">trabajo afectó a mi vida, ya que encontrar trabajo en los tiempos </tspan>
+            <tspan x="138" y="888">que corren es muy difícil y ese era el sustento en mi casa. La vida de </tspan>
+            <tspan x="138" y="916.8">un migrante no es fácil y menos en los últimos años».</tspan>
+        </text>
+        <text id="Foto-de-la-Cruz-Roja" font-family="Poppins-Bold, Poppins" font-size="11.7" font-weight="bold" fill="#FFFFFF">
+            <tspan x="680.2178" y="970">Foto de la Cruz Roja Argentina</tspan>
+        </text>
+        <g id="camera-svgrepo-com" transform="translate(657.000000, 957.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M17,2.87443618 L0,2.87443618 L0,14 L17,14 L17,2.87443618 Z M8.49996314,12.0148632 C6.52346409,12.0148632 4.92105069,10.4131074 4.92105069,8.43718125 C4.92105069,6.46140243 6.52339038,4.85957295 8.49996314,4.85957295 C10.4765359,4.85957295 12.079023,6.46140243 12.079023,8.43718125 C12.079023,10.4131074 10.4765359,12.0148632 8.49996314,12.0148632 Z M6.48963053,0 L10.5103695,0 L11.8329742,2.13169543 L5.16717325,2.13169543 L6.48963053,0 Z M10.6473991,8.43718125 C10.6473991,9.62269275 9.68598051,10.5838347 8.49996314,10.5838347 C7.3140932,10.5838347 6.35267464,9.62269275 6.35267464,8.43718125 C6.35267464,7.25166975 7.3140932,6.29060153 8.49996314,6.29060153 C9.68598051,6.29067521 10.6473991,7.25166975 10.6473991,8.43718125 Z" id="Shape"></path>
+        </g>
+        <text id="Entrevista-a-una-mig" font-family="Poppins-Regular, Poppins" font-size="18" font-weight="normal" fill="#FFFFFF">
+            <tspan x="167" y="973">Entrevista a una migrante en Argentina</tspan>
+        </text>
+        <image id="Bitmap" x="138" y="960" width="22.5135135" height="14" xlink:href="data:image/png;base64,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"></image>
+    </g>
+</svg>
