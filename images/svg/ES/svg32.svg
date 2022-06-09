@@ -13,10 +13,10 @@
             <tspan x="100" y="58">Confianza en los agentes humanitarios</tspan>
         </text>
         <text id="Nivel-de-confianza-e" font-family="Poppins-Bold, Poppins" font-size="21" font-weight="bold" fill="#000000">
-            <tspan x="100" y="279">Nivel de confianza en los tomadores de decisión antes del COVID-19</tspan>
+            <tspan x="100" y="279">Nivel de confianza en los agentes humanitarios antes del COVID-19</tspan>
         </text>
-        <line x1="619" y1="283.5" x2="681.522779" y2="283.5" id="red_line" stroke="#F5333F" stroke-width="3"></line>
-        <line x1="466" y1="563.5" x2="556.522779" y2="563.5" id="red_line" stroke="#F5333F" stroke-width="3"></line>
+        <line x1="613" y1="283.5" x2="675.522779" y2="283.5" id="red_line" stroke="#F5333F" stroke-width="3"></line>
+        <line x1="615" y1="563.5" x2="705.522779" y2="563.5" id="red_line" stroke="#F5333F" stroke-width="3"></line>
         <g id="Group-8" transform="translate(100.000000, 328.000000)">
             <g id="Group-3" transform="translate(0.000000, 50.000000)" fill-rule="nonzero">
                 <rect id="Rectangle" fill="#FBADB2" x="23.7872687" y="0" width="80.0663137" height="100"></rect>
@@ -116,7 +116,7 @@
             <polygon id="Path-2" fill="#011E41" transform="translate(661.937596, 178.959247) scale(1, -1) translate(-661.937596, -178.959247) " points="654.253326 174 661.937596 183.918494 669.621866 174"></polygon>
         </g>
         <text id="Nivel-de-confianza-e" font-family="Poppins-Bold, Poppins" font-size="21" font-weight="bold" fill="#000000">
-            <tspan x="100" y="559">Nivel de confianza en los políticos después del COVID-19</tspan>
+            <tspan x="100" y="559">Nivel de confianza en los agentes humanitarios después del COVID-19</tspan>
         </text>
     </g>
 </svg>

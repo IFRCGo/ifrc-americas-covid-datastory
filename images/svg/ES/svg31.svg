@@ -23,7 +23,7 @@
             <tspan x="100" y="279">Nivel de confianza en los tomadores de decisión antes del COVID-19</tspan>
         </text>
         <line x1="620" y1="283.5" x2="682.522779" y2="283.5" id="red_line" stroke="#F5333F" stroke-width="3"></line>
-        <line x1="466" y1="553.5" x2="556.522779" y2="553.5" id="red_line" stroke="#F5333F" stroke-width="3"></line>
+        <line x1="621" y1="553.5" x2="711.522779" y2="553.5" id="red_line" stroke="#F5333F" stroke-width="3"></line>
         <g id="Group-6" transform="translate(100.000000, 318.000000)">
             <g id="Group-2" transform="translate(0.000000, 53.000000)" fill-rule="nonzero">
                 <rect id="Rectangle" fill="#FBADB2" x="167.906633" y="0" width="272.225466" height="100"></rect>
@@ -123,7 +123,7 @@
             <polygon id="Path-2" fill="#011E41" transform="translate(753.937596, 183.959247) scale(1, -1) translate(-753.937596, -183.959247) " points="746.253326 179 753.937596 188.918494 761.621866 179"></polygon>
         </g>
         <text id="Nivel-de-confianza-e" font-family="Poppins-Bold, Poppins" font-size="21" font-weight="bold" fill="#000000">
-            <tspan x="100" y="549">Nivel de confianza en los políticos después del COVID-19</tspan>
+            <tspan x="100" y="549">Nivel de confianza en los tomadores de decisión después del COVID-19</tspan>
         </text>
     </g>
 </svg>
