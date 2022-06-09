@@ -12,29 +12,29 @@
             </g>
             <rect id="link_home" fill-opacity="0" fill="#00FFC6" x="0" y="0" width="139" height="26.6575342"></rect>
         </g>
-        <rect id="bg_background" fill="#F1F1F1" opacity="0" x="235" y="-4" width="98" height="44"></rect>
-        <rect id="bg_keyfindings" fill="#F1F1F1" opacity="0" x="334.408219" y="-4" width="149" height="44"></rect>
-        <rect id="bg_recommendations" fill="#F1F1F1" opacity="0" x="472.660274" y="-4" width="132" height="44"></rect>
-        <rect id="bg_methodology" fill="#F1F1F1" opacity="0" x="717.832877" y="-4" width="98" height="44"></rect>
-        <rect id="bg_publications" fill="#F1F1F1" opacity="0" x="615.832877" y="-4" width="104" height="44"></rect>
-        <rect id="bg_references" fill="#F1F1F1" opacity="0" x="818.794521" y="-4" width="86" height="44"></rect>
+        <rect id="bg_background" fill="#F1F1F1" opacity="0" x="233" y="-4" width="102" height="44"></rect>
+        <rect id="bg_keyfindings" fill="#F1F1F1" opacity="0" x="334.408219" y="-4" width="130" height="44"></rect>
+        <rect id="bg_recommendations" fill="#F1F1F1" opacity="0" x="463.660274" y="-4" width="136" height="44"></rect>
+        <rect id="bg_methodology" fill="#F1F1F1" opacity="0" x="708.832877" y="-4" width="104" height="44"></rect>
+        <rect id="bg_publications" fill="#F1F1F1" opacity="0" x="599.832877" y="-4" width="109" height="44"></rect>
+        <rect id="bg_references" fill="#F1F1F1" opacity="0" x="812.794521" y="-4" width="92" height="44"></rect>
         <text id="link_text_background" font-family="Poppins-Regular, Poppins" font-size="12.3" font-weight="normal" fill="#000000">
             <tspan x="239.92663" y="25">ANTECEDENTES  </tspan>
         </text>
         <text id="link_text_keyfindings" font-family="Poppins-Regular, Poppins" font-size="12.3" font-weight="normal" fill="#000000">
-            <tspan x="351.67502" y="25">HALLAZGOS CLAVE</tspan>
+            <tspan x="347.67502" y="25">HALLAZGOS CLAVE</tspan>
         </text>
         <text id="link_text_recommendations" font-family="Poppins-Regular, Poppins" font-size="12.3" font-weight="normal" fill="#000000">
-            <tspan x="482.644263" y="25">RECOMENDACIONES</tspan>
+            <tspan x="471.644263" y="25">RECOMENDACIONES</tspan>
         </text>
         <text id="link_text_methodology" font-family="Poppins-Regular, Poppins" font-size="12.3" font-weight="normal" fill="#000000">
-            <tspan x="725.446103" y="25">METODOLOGÍA</tspan>
+            <tspan x="716.446103" y="25">METODOLOGÍA</tspan>
         </text>
         <text id="link_text_references" font-family="Poppins-Regular, Poppins" font-size="12.3" font-weight="normal" fill="#000000">
-            <tspan x="822.571274" y="25">REFERENCIAS</tspan>
+            <tspan x="821.571274" y="25">REFERENCIAS</tspan>
         </text>
         <text id="link_text_publications" font-family="Poppins-Regular, Poppins" font-size="12.3" font-weight="normal" fill="#000000">
-            <tspan x="619.87093" y="25">PUBLICACIONES</tspan>
+            <tspan x="606.87093" y="25">PUBLICACIONES</tspan>
         </text>
         <rect id="link_background" fill-opacity="0" fill="#FFFFFF" x="230.846575" y="6" width="103.742466" height="28"></rect>
         <rect id="link_keyfindings" fill-opacity="0" fill="#FFFFFF" x="332.627397" y="6" width="145.89589" height="28"></rect>
