@@ -10,8 +10,7 @@
         </g>
         <g id="question" transform="translate(100.000000, 43.196970)">
             <text id="question-title" font-family="Poppins-Bold, Poppins" font-size="20" font-weight="bold" fill="#000000">
-                <tspan x="50" y="27.8030303">¿QUÉ TAN  FÁCIL LE FUE OBTENER SETRVICIOS DE VACUNACIÓN PARA </tspan>
-                <tspan x="50" y="55.8030303">USTED?</tspan>
+                <tspan x="50" y="27.8030303">¿QUÉ TAN  FÁCIL LE FUE OBTENER SERVICIOS DE VACUNACIÓN PARA USTED?</tspan>
             </text>
             <g id="question-icon">
                 <path d="M1.38600004,2.22727273 L21,2.22727273 C29.2842712,2.22727273 36,8.94300148 36,17.2272727 L36,24.55703 C36,32.9771635 29.1741332,39.8030303 20.7539997,39.8030303 L1.38600004,39.8030303 C0.620533353,39.8030303 3.15787237e-16,39.1824969 0,38.4170303 L0,3.61327276 C-9.37426324e-17,2.84780608 0.620533353,2.22727273 1.38600004,2.22727273 Z" id="Rectangle" fill="#3B3B3B"></path>

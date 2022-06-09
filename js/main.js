@@ -15,10 +15,12 @@ window.addEventListener("load", function () {
         // newsvg.attr('preserveAspectRatio', 'xMidYMid meet');
         
         // viewbox adjustments
-        var viewBoxArr = newsvg.attr('viewBox').split(/(\s+)/);
-        viewBoxArr[4] = viewBoxArr[4] - 140;
-        viewBoxArr[0] = viewBoxArr[0] + 70;
-        newsvg.attr('viewBox',viewBoxArr.join(''));
+        if(newsvg.attr('viewBox')){
+            var viewBoxArr = newsvg.attr('viewBox').split(/(\s+)/);
+            viewBoxArr[4] = viewBoxArr[4] - 140;
+            viewBoxArr[0] = viewBoxArr[0] + 70;
+            newsvg.attr('viewBox',viewBoxArr.join(''));
+        }
         
         // newsvg.width(800);
         newsvg.removeAttr('height');

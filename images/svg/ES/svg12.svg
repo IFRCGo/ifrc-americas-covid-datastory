@@ -412,8 +412,8 @@
             <text id="17%" font-family="Poppins-Bold, Poppins" font-size="80" font-weight="bold" fill="#F5333F">
                 <tspan x="100" y="169">17%</tspan>
             </text>
-            <text id="de-encuestados-afirm" font-family="Poppins-Medium, Poppins" font-size="22" font-weight="400" fill="#000000">
-                <tspan x="271" y="133">de encuestados afirmó estar </tspan>
+            <text id="de-los-encuestados-a" font-family="Poppins-Medium, Poppins" font-size="22" font-weight="400" fill="#000000">
+                <tspan x="271" y="133">de los encuestados afirmó estar </tspan>
                 <tspan x="271" y="164">vacunado.</tspan>
             </text>
         </g>

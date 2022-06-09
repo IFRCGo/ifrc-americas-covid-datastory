@@ -3,9 +3,9 @@
     <title>svg09</title>
     <g id="svg09" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#FFFFFF" x="0" y="0" width="1000" height="592"></rect>
-        <text id="Se-entrevistó-a-pueb" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
-            <tspan x="100" y="67">Se entrevistó a pueblos indígenas de Colombia, Guatemala y Panamá; estos </tspan>
-            <tspan x="100" y="99">representan casi el 12 % del sondeo total de la encuesta. </tspan>
+        <text id="Se-entrevistó-a-comu" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="32" fill="#000000">
+            <tspan x="100" y="67">Se entrevistó a comunidades indígenas de Colombia, Guatemala y Panamá; </tspan>
+            <tspan x="100" y="99">estos representan casi el 12 % del sondeo total de la encuesta. </tspan>
         </text>
         <g id="Group-11" transform="translate(497.500000, 345.500000) scale(1, -1) translate(-497.500000, -345.500000) translate(322.000000, 170.000000)">
             <g id="pie_indigenous">
