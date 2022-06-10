@@ -6,10 +6,10 @@
         <g id="map_group" transform="translate(86.000000, 39.000000)">
             <g id="map_title">
                 <rect id="Rectangle" fill="#FCFCFC" x="0" y="0" width="815" height="71"></rect>
-                <line x1="567.5" y1="33.9605473" x2="790.79459" y2="33.9605473" id="red_line" stroke="#F5333F" stroke-width="4"></line>
-                <text id="Porcentaje-de-los-en" font-family="Poppins-Bold, Poppins" font-size="21" font-weight="bold" fill="#000000">
-                    <tspan x="79" y="30">Porcentaje de los encuestados que señaló un cambio significativo en </tspan>
-                    <tspan x="79" y="59">su situación económica debido a la pandemia, por país</tspan>
+                <line x1="532.5" y1="33.9605473" x2="755.79459" y2="33.9605473" id="red_line" stroke="#F5333F" stroke-width="4"></line>
+                <text id="Porcentaje-de-encues" font-family="Poppins-Bold, Poppins" font-size="21" font-weight="bold" fill="#000000">
+                    <tspan x="79" y="30">Porcentaje de encuestados que señaló un cambio significativo en su </tspan>
+                    <tspan x="79" y="59">situación económica debido a la pandemia, por país</tspan>
                 </text>
                 <g id="Group-15" transform="translate(14.000000, 10.000000)">
                     <polygon id="Fill-1" fill="#F5333F" points="15.0616561 21.2106513 0 16.8594522 0 41.6489443 15.0616561 46 30.1234604 41.6489443 45.1848203 46 45.1848203 21.2106513 30.1234604 16.8594522"></polygon>
