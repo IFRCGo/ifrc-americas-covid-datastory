@@ -933,6 +933,10 @@ window.addEventListener("load", function () {
                 $('#download_full').click(function(){
                     window.open('https://communityengagementhub.org/resource/covid-19-in-the-americas-listening-to-the-most-vulnerable/', '_blank').focus();
                 })
+
+                $('#download_full_es').click(function(){
+                    window.open('https://communityengagementhub.org/es/resource/estudio-regional-de-america-sobre-covid-19/', '_blank').focus();
+                })
                 
                 $('#download_ns1').click(function(){
                     window.open('https://communityengagementhub.org/es/resource/encuestas-de-percepcion-sobre-la-aceptacion-de-la-vacuna-covid-19-en-las-comunidades-originarias-y-urbanas/', '_blank').focus();
