@@ -925,6 +925,10 @@ window.addEventListener("load", function () {
                 $('#download_summary').click(function(){
                     window.open('https://communityengagementhub.org/resource/summary-of-covid-19-in-the-americas-listening-to-the-most-vulnerable/', '_blank').focus();
                 })
+
+                $('#download_summary_es').click(function(){
+                    window.open('https://communityengagementhub.org/es/resource/estudio-regional-de-america-sobre-covid-19/', '_blank').focus();
+                })
                 
                 $('#link_dashboard').click(function(){
                     window.open('https://go.ifrc.org/emergencies/4379#surveys', '_blank').focus();
